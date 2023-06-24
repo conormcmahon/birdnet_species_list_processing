@@ -1,0 +1,105 @@
+Acris crepitans_Northern Cricket Frog
+Acris gryllus_Southern Cricket Frog
+Allonemobius allardi_Allard's Ground Cricket
+Allonemobius tinnulus_Tinkling Ground Cricket
+Allonemobius walkeri_Walker's Ground Cricket
+Alouatta pigra_Mexican Black Howler Monkey
+Amblycorypha alexanderi_Clicker Round-winged Katydid
+Amblycorypha longinicta_Common Virtuoso Katydid
+Amblycorypha oblongifolia_Oblong-winged Katydid
+Amblycorypha rotundifolia_Rattler Round-winged Katydid
+Anaxipha exigua_Say's Trig
+Anaxyrus americanus_American Toad
+Anaxyrus canorus_Yosemite Toad
+Anaxyrus cognatus_Great Plains Toad
+Anaxyrus fowleri_Fowler's Toad
+Anaxyrus houstonensis_Houston Toad
+Anaxyrus microscaphus_Arizona Toad
+Anaxyrus quercicus_Oak Toad
+Anaxyrus speciosus_Texas Toad
+Anaxyrus terrestris_Southern Toad
+Anaxyrus woodhousii_Woodhouse's Toad
+Apis mellifera_Honey Bee
+Atlanticus testaceus_Protean Shieldback
+Canis latrans_Coyote
+Canis lupus_Gray Wolf
+Conocephalus brevipennis_Short-winged Meadow Katydid
+Conocephalus fasciatus_Slender Meadow Katydid
+Cyrtoxipha columbiana_Columbian Trig
+Dog_Dog
+Dryophytes andersonii_Pine Barrens Treefrog
+Dryophytes arenicolor_Canyon Treefrog
+Dryophytes avivoca_Bird-voiced Treefrog
+Dryophytes chrysoscelis_Cope's Gray Treefrog
+Dryophytes cinereus_Green Treefrog
+Dryophytes femoralis_Pine Woods Treefrog
+Dryophytes gratiosus_Barking Treefrog
+Dryophytes squirellus_Squirrel Treefrog
+Dryophytes versicolor_Gray Treefrog
+Eleutherodactylus planirostris_Greenhouse Frog
+Engine_Engine
+Environmental_Environmental
+Eunemobius carolinus_Carolina Ground Cricket
+Eunemobius confusus_Confused Ground Cricket
+Fireworks_Fireworks
+Gastrophryne carolinensis_Eastern Narrow-mouthed Toad
+Gastrophryne olivacea_Great Plains Narrow-mouthed Toad
+Gryllus assimilis_Gryllus assimilis
+Gryllus fultoni_Southern Wood Cricket
+Gryllus pennsylvanicus_Fall Field Cricket
+Gryllus rubens_Southeastern Field Cricket
+Gun_Gun
+Human non-vocal_Human non-vocal
+Human vocal_Human vocal
+Human whistle_Human whistle
+Hyliola regilla_Pacific Chorus Frog
+Incilius valliceps_Gulf Coast Toad
+Lanius corvinus_Yellow-billed Shrike
+Lithobates catesbeianus_American Bullfrog
+Lithobates clamitans_Green Frog
+Lithobates palustris_Pickerel Frog
+Lithobates sylvaticus_Wood Frog
+Microcentrum rhombifolium_Greater Angle-wing
+Miogryllus saussurei_Miogryllus saussurei
+Myrmothera berlepschi_Amazonian Antpitta
+Myrmothera fulviventris_White-lored Antpitta
+Neoconocephalus bivocatus_False Robust Conehead
+Neoconocephalus ensiger_Sword-bearing Conehead
+Neoconocephalus retusus_Round-tipped Conehead
+Neoconocephalus robustus_Robust Conehead
+Neonemobius cubensis_Cuban Ground Cricket
+Noise_Noise
+Odocoileus virginianus_White-tailed Deer
+Oecanthus celerinictus_Fast-calling Tree Cricket
+Oecanthus exclamationis_Davis's Tree Cricket
+Oecanthus fultoni_Snowy Tree Cricket
+Oecanthus nigricornis_Blackhorned Tree Cricket
+Oecanthus niveus_Narrow-winged Tree Cricket
+Oecanthus pini_Pine Tree Cricket
+Oecanthus quadripunctatus_Four-spotted Tree Cricket
+Orchelimum agile_Agile Meadow Katydid
+Orchelimum concinnum_Stripe-faced Meadow Katydid
+Orchelimum pulchellum_Handsome Meadow Katydid
+Orocharis saltator_Jumping Bush Cricket
+Phyllopalpus pulchellus_Handsome Trig
+Power tools_Power tools
+Pseudacris brimleyi_Brimley's Chorus Frog
+Pseudacris clarkii_Spotted Chorus Frog
+Pseudacris crucifer_Spring Peeper
+Pseudacris feriarum_Upland Chorus Frog
+Pseudacris nigrita_Southern Chorus Frog
+Pseudacris ocularis_Little Grass Frog
+Pseudacris ornata_Ornate Chorus Frog
+Pseudacris streckeri_Strecker's Chorus Frog
+Pseudacris triseriata_Striped Chorus Frog
+Pterophylla camellifolia_Common True Katydid
+Rhopospina caerulescens_Blue Finch
+Scaphiopus couchii_Couch's Spadefoot
+Sciurus carolinensis_Eastern Gray Squirrel
+Scudderia curvicauda_Curve-tailed Bush Katydid
+Scudderia furcata_Fork-tailed Bush Katydid
+Scudderia texensis_Texas Bush Katydid
+Siren_Siren
+Spea bombifrons_Plains Spadefoot
+Tamias striatus_Eastern Chipmunk
+Tamiasciurus hudsonicus_Red Squirrel
