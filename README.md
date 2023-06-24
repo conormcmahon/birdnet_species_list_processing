@@ -13,3 +13,5 @@ To use it, get a copy of the total species list from the link above and save it 
 - non_birds_metadata.csv - metadata for non-bird sounds (other wildlife and non-wildlife) 
 
 - non_birds_species_list.txt - a new species label file 'non_birds_species_list.txt' which includes only the non-bird sound labels, using the format required by BirdNET-Analyzer for specifying species lists. 
+
+I've included exqamples of each of the above output files for model version 2.4 - however, this should be possibly to straightforwardly apply on any previous BirdNET model, too. 
