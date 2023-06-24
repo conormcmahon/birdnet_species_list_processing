@@ -64,27 +64,27 @@ getSpeciesMetadata <- function(str)
   # Extract most common value for each taxonomic level 
   # This handles issues where individual records have different case, misspellings, etc. 
   kingdom <- (class_list %>% 
-                group_by(kingdom) %>%
+                group_by(str_to_title(kingdom)) %>%
                 tally() %>% 
                 drop_na() %>%
                 arrange(-n))[1,]$kingdom
   phylum <- (class_list %>% 
-                group_by(phylum) %>%
+                group_by(str_to_title(phylum)) %>%
                 tally() %>% 
                 drop_na() %>%                
                 arrange(-n))[1,]$phylum
   class <- (class_list %>% 
-                group_by(class) %>%
+                group_by(str_to_title(class)) %>%
                 tally() %>% 
                 drop_na() %>%
                 arrange(-n))[1,]$class
   order <- (class_list %>% 
-                group_by(order) %>%
+                group_by(str_to_title(order)) %>%
                 tally() %>% 
                 drop_na() %>%
                 arrange(-n))[1,]$order
   family <- (class_list %>% 
-              group_by(family) %>%
+              group_by(str_to_title(family)) %>%
               tally() %>% 
               drop_na() %>%
               arrange(-n))[1,]$family
@@ -104,9 +104,20 @@ getSpeciesMetadata <- function(str)
 
 # Extract metadata for all species labels
 all_species_list <- lapply(labels_raw, getSpeciesMetadata)
-# Form into a dataframe, and regenerate 
+
+# Form into a dataframe
 all_species <- bind_rows(all_species_list) %>%
   mutate(full_code = labels_raw)
+
+# Now, double-check that no real organisms were discluded because of lack of alignment in scientific names:
+all_species %>% filter(is.na(kingdom))
+# For model version 2.4, the following corrections need to be made: 
+all_species[all_species$binomial=="Hyliola regilla",1:7] <- data.frame("Animalia","Chordata","Amphibia","Anura","Hylidae","Pseudacris","regilla")
+all_species[all_species$binomial=="Myrmothera berlepschi",1:7] <- data.frame("Animalia","Chordata","Aves","Passeriformes","Grallariidae","Myrmothera","berlepschi")
+all_species[all_species$binomial=="Myrmothera fulviventris",1:7] <- data.frame("Animalia","Chordata","Aves","Passeriformes","Grallariidae","Myrmothera","fulviventris")
+all_species[all_species$binomial=="Rhopospina caerulescens",1:7] <- data.frame("Animalia","Chordata","Aves","Passeriformes","Thraupidae","Rhopospina","caerulescens")
+
+# Finally, make a list of the non-bird taxa
 non_birds <- all_species %>% 
   filter(!bird)
 
