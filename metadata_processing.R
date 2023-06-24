@@ -116,6 +116,7 @@ all_species[all_species$binomial=="Hyliola regilla",1:7] <- data.frame("Animalia
 all_species[all_species$binomial=="Myrmothera berlepschi",1:7] <- data.frame("Animalia","Chordata","Aves","Passeriformes","Grallariidae","Myrmothera","berlepschi")
 all_species[all_species$binomial=="Myrmothera fulviventris",1:7] <- data.frame("Animalia","Chordata","Aves","Passeriformes","Grallariidae","Myrmothera","fulviventris")
 all_species[all_species$binomial=="Rhopospina caerulescens",1:7] <- data.frame("Animalia","Chordata","Aves","Passeriformes","Thraupidae","Rhopospina","caerulescens")
+all_species$bird <- (all_species$class == "Aves")
 
 # Finally, make a list of the non-bird taxa
 non_birds <- all_species %>% 

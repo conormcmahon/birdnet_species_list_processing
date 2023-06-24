@@ -26,7 +26,6 @@ Canis lupus_Gray Wolf
 Conocephalus brevipennis_Short-winged Meadow Katydid
 Conocephalus fasciatus_Slender Meadow Katydid
 Cyrtoxipha columbiana_Columbian Trig
-Dog_Dog
 Dryophytes andersonii_Pine Barrens Treefrog
 Dryophytes arenicolor_Canyon Treefrog
 Dryophytes avivoca_Bird-voiced Treefrog
@@ -37,38 +36,27 @@ Dryophytes gratiosus_Barking Treefrog
 Dryophytes squirellus_Squirrel Treefrog
 Dryophytes versicolor_Gray Treefrog
 Eleutherodactylus planirostris_Greenhouse Frog
-Engine_Engine
-Environmental_Environmental
 Eunemobius carolinus_Carolina Ground Cricket
 Eunemobius confusus_Confused Ground Cricket
-Fireworks_Fireworks
 Gastrophryne carolinensis_Eastern Narrow-mouthed Toad
 Gastrophryne olivacea_Great Plains Narrow-mouthed Toad
 Gryllus assimilis_Gryllus assimilis
 Gryllus fultoni_Southern Wood Cricket
 Gryllus pennsylvanicus_Fall Field Cricket
 Gryllus rubens_Southeastern Field Cricket
-Gun_Gun
-Human non-vocal_Human non-vocal
-Human vocal_Human vocal
-Human whistle_Human whistle
 Hyliola regilla_Pacific Chorus Frog
 Incilius valliceps_Gulf Coast Toad
-Lanius corvinus_Yellow-billed Shrike
 Lithobates catesbeianus_American Bullfrog
 Lithobates clamitans_Green Frog
 Lithobates palustris_Pickerel Frog
 Lithobates sylvaticus_Wood Frog
 Microcentrum rhombifolium_Greater Angle-wing
 Miogryllus saussurei_Miogryllus saussurei
-Myrmothera berlepschi_Amazonian Antpitta
-Myrmothera fulviventris_White-lored Antpitta
 Neoconocephalus bivocatus_False Robust Conehead
 Neoconocephalus ensiger_Sword-bearing Conehead
 Neoconocephalus retusus_Round-tipped Conehead
 Neoconocephalus robustus_Robust Conehead
 Neonemobius cubensis_Cuban Ground Cricket
-Noise_Noise
 Odocoileus virginianus_White-tailed Deer
 Oecanthus celerinictus_Fast-calling Tree Cricket
 Oecanthus exclamationis_Davis's Tree Cricket
@@ -82,7 +70,6 @@ Orchelimum concinnum_Stripe-faced Meadow Katydid
 Orchelimum pulchellum_Handsome Meadow Katydid
 Orocharis saltator_Jumping Bush Cricket
 Phyllopalpus pulchellus_Handsome Trig
-Power tools_Power tools
 Pseudacris brimleyi_Brimley's Chorus Frog
 Pseudacris clarkii_Spotted Chorus Frog
 Pseudacris crucifer_Spring Peeper
@@ -93,13 +80,11 @@ Pseudacris ornata_Ornate Chorus Frog
 Pseudacris streckeri_Strecker's Chorus Frog
 Pseudacris triseriata_Striped Chorus Frog
 Pterophylla camellifolia_Common True Katydid
-Rhopospina caerulescens_Blue Finch
 Scaphiopus couchii_Couch's Spadefoot
 Sciurus carolinensis_Eastern Gray Squirrel
 Scudderia curvicauda_Curve-tailed Bush Katydid
 Scudderia furcata_Fork-tailed Bush Katydid
 Scudderia texensis_Texas Bush Katydid
-Siren_Siren
 Spea bombifrons_Plains Spadefoot
 Tamias striatus_Eastern Chipmunk
 Tamiasciurus hudsonicus_Red Squirrel

@@ -27,7 +27,6 @@ Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,lupus,Gray Wolf,Canis lupus,F
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Conocephalus,brevipennis,Short-winged Meadow Katydid,Conocephalus brevipennis,FALSE,Conocephalus brevipennis_Short-winged Meadow Katydid
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Conocephalus,fasciatus,Slender Meadow Katydid,Conocephalus fasciatus,FALSE,Conocephalus fasciatus_Slender Meadow Katydid
 Animalia,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Cyrtoxipha,columbiana,Columbian Trig,Cyrtoxipha columbiana,FALSE,Cyrtoxipha columbiana_Columbian Trig
-NA,NA,NA,NA,NA,NA,NA,Dog,Dog,FALSE,Dog_Dog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Dryophytes,andersonii,Pine Barrens Treefrog,Dryophytes andersonii,FALSE,Dryophytes andersonii_Pine Barrens Treefrog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Dryophytes,arenicolor,Canyon Treefrog,Dryophytes arenicolor,FALSE,Dryophytes arenicolor_Canyon Treefrog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Dryophytes,avivoca,Bird-voiced Treefrog,Dryophytes avivoca,FALSE,Dryophytes avivoca_Bird-voiced Treefrog
@@ -38,38 +37,27 @@ Animalia,Chordata,Amphibia,Anura,Hylidae,Dryophytes,gratiosus,Barking Treefrog,D
 Animalia,Chordata,Amphibia,Anura,Hylidae,Dryophytes,squirellus,Squirrel Treefrog,Dryophytes squirellus,FALSE,Dryophytes squirellus_Squirrel Treefrog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Dryophytes,versicolor,Gray Treefrog,Dryophytes versicolor,FALSE,Dryophytes versicolor_Gray Treefrog
 Animalia,Chordata,Amphibia,Anura,Eleutherodactylidae,Eleutherodactylus,planirostris,Greenhouse Frog,Eleutherodactylus planirostris,FALSE,Eleutherodactylus planirostris_Greenhouse Frog
-NA,NA,NA,NA,NA,NA,NA,Engine,Engine,FALSE,Engine_Engine
-NA,NA,NA,NA,NA,NA,NA,Environmental,Environmental,FALSE,Environmental_Environmental
 Animalia,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Eunemobius,carolinus,Carolina Ground Cricket,Eunemobius carolinus,FALSE,Eunemobius carolinus_Carolina Ground Cricket
 Animalia,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Eunemobius,confusus,Confused Ground Cricket,Eunemobius confusus,FALSE,Eunemobius confusus_Confused Ground Cricket
-NA,NA,NA,NA,NA,NA,NA,Fireworks,Fireworks,FALSE,Fireworks_Fireworks
 Animalia,Chordata,Amphibia,Anura,Microhylidae,Gastrophryne,carolinensis,Eastern Narrow-mouthed Toad,Gastrophryne carolinensis,FALSE,Gastrophryne carolinensis_Eastern Narrow-mouthed Toad
 Animalia,Chordata,Amphibia,Anura,Microhylidae,Gastrophryne,olivacea,Great Plains Narrow-mouthed Toad,Gastrophryne olivacea,FALSE,Gastrophryne olivacea_Great Plains Narrow-mouthed Toad
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Gryllus,assimilis,Gryllus assimilis,Gryllus assimilis,FALSE,Gryllus assimilis_Gryllus assimilis
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Gryllus,fultoni,Southern Wood Cricket,Gryllus fultoni,FALSE,Gryllus fultoni_Southern Wood Cricket
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Gryllus,pennsylvanicus,Fall Field Cricket,Gryllus pennsylvanicus,FALSE,Gryllus pennsylvanicus_Fall Field Cricket
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Gryllus,rubens,Southeastern Field Cricket,Gryllus rubens,FALSE,Gryllus rubens_Southeastern Field Cricket
-NA,NA,NA,NA,NA,NA,NA,Gun,Gun,FALSE,Gun_Gun
-NA,NA,NA,NA,NA,NA,NA,Human non-vocal,Human non-vocal,FALSE,Human non-vocal_Human non-vocal
-NA,NA,NA,NA,NA,NA,NA,Human vocal,Human vocal,FALSE,Human vocal_Human vocal
-NA,NA,NA,NA,NA,NA,NA,Human whistle,Human whistle,FALSE,Human whistle_Human whistle
 Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,regilla,Pacific Chorus Frog,Hyliola regilla,FALSE,Hyliola regilla_Pacific Chorus Frog
 Animalia,Chordata,Amphibia,Anura,Bufonidae,Incilius,valliceps,Gulf Coast Toad,Incilius valliceps,FALSE,Incilius valliceps_Gulf Coast Toad
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LANIIDAE,Lanius,corvinus,Yellow-billed Shrike,Lanius corvinus,FALSE,Lanius corvinus_Yellow-billed Shrike
 Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,catesbeianus,American Bullfrog,Lithobates catesbeianus,FALSE,Lithobates catesbeianus_American Bullfrog
 Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,clamitans,Green Frog,Lithobates clamitans,FALSE,Lithobates clamitans_Green Frog
 Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,palustris,Pickerel Frog,Lithobates palustris,FALSE,Lithobates palustris_Pickerel Frog
 Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,sylvaticus,Wood Frog,Lithobates sylvaticus,FALSE,Lithobates sylvaticus_Wood Frog
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Microcentrum,rhombifolium,Greater Angle-wing,Microcentrum rhombifolium,FALSE,Microcentrum rhombifolium_Greater Angle-wing
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Miogryllus,saussurei,Miogryllus saussurei,Miogryllus saussurei,FALSE,Miogryllus saussurei_Miogryllus saussurei
-Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,berlepschi,Amazonian Antpitta,Myrmothera berlepschi,FALSE,Myrmothera berlepschi_Amazonian Antpitta
-Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,fulviventris,White-lored Antpitta,Myrmothera fulviventris,FALSE,Myrmothera fulviventris_White-lored Antpitta
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Neoconocephalus,bivocatus,False Robust Conehead,Neoconocephalus bivocatus,FALSE,Neoconocephalus bivocatus_False Robust Conehead
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Neoconocephalus,ensiger,Sword-bearing Conehead,Neoconocephalus ensiger,FALSE,Neoconocephalus ensiger_Sword-bearing Conehead
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Neoconocephalus,retusus,Round-tipped Conehead,Neoconocephalus retusus,FALSE,Neoconocephalus retusus_Round-tipped Conehead
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Neoconocephalus,robustus,Robust Conehead,Neoconocephalus robustus,FALSE,Neoconocephalus robustus_Robust Conehead
 Animalia,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Neonemobius,cubensis,Cuban Ground Cricket,Neonemobius cubensis,FALSE,Neonemobius cubensis_Cuban Ground Cricket
-NA,NA,NA,NA,NA,NA,NA,Noise,Noise,FALSE,Noise_Noise
 Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus,virginianus,White-tailed Deer,Odocoileus virginianus,FALSE,Odocoileus virginianus_White-tailed Deer
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Oecanthus,celerinictus,Fast-calling Tree Cricket,Oecanthus celerinictus,FALSE,Oecanthus celerinictus_Fast-calling Tree Cricket
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Oecanthus,exclamationis,Davis's Tree Cricket,Oecanthus exclamationis,FALSE,Oecanthus exclamationis_Davis's Tree Cricket
@@ -83,7 +71,6 @@ Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Orchelimum,concinnum,Stripe
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Orchelimum,pulchellum,Handsome Meadow Katydid,Orchelimum pulchellum,FALSE,Orchelimum pulchellum_Handsome Meadow Katydid
 Animalia,Arthropoda,Insecta,Orthoptera,Gryllidae,Orocharis,saltator,Jumping Bush Cricket,Orocharis saltator,FALSE,Orocharis saltator_Jumping Bush Cricket
 Animalia,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Phyllopalpus,pulchellus,Handsome Trig,Phyllopalpus pulchellus,FALSE,Phyllopalpus pulchellus_Handsome Trig
-NA,NA,NA,NA,NA,NA,NA,Power tools,Power tools,FALSE,Power tools_Power tools
 Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,brimleyi,Brimley's Chorus Frog,Pseudacris brimleyi,FALSE,Pseudacris brimleyi_Brimley's Chorus Frog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,clarkii,Spotted Chorus Frog,Pseudacris clarkii,FALSE,Pseudacris clarkii_Spotted Chorus Frog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,crucifer,Spring Peeper,Pseudacris crucifer,FALSE,Pseudacris crucifer_Spring Peeper
@@ -94,13 +81,11 @@ Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,ornata,Ornate Chorus Frog,Ps
 Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,streckeri,Strecker's Chorus Frog,Pseudacris streckeri,FALSE,Pseudacris streckeri_Strecker's Chorus Frog
 Animalia,Chordata,Amphibia,Anura,Hylidae,Pseudacris,triseriata,Striped Chorus Frog,Pseudacris triseriata,FALSE,Pseudacris triseriata_Striped Chorus Frog
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Pterophylla,camellifolia,Common True Katydid,Pterophylla camellifolia,FALSE,Pterophylla camellifolia_Common True Katydid
-Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina,caerulescens,Blue Finch,Rhopospina caerulescens,FALSE,Rhopospina caerulescens_Blue Finch
 Animalia,Chordata,Amphibia,Anura,Scaphiopodidae,Scaphiopus,couchii,Couch's Spadefoot,Scaphiopus couchii,FALSE,Scaphiopus couchii_Couch's Spadefoot
 Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,carolinensis,Eastern Gray Squirrel,Sciurus carolinensis,FALSE,Sciurus carolinensis_Eastern Gray Squirrel
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Scudderia,curvicauda,Curve-tailed Bush Katydid,Scudderia curvicauda,FALSE,Scudderia curvicauda_Curve-tailed Bush Katydid
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Scudderia,furcata,Fork-tailed Bush Katydid,Scudderia furcata,FALSE,Scudderia furcata_Fork-tailed Bush Katydid
 Animalia,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Scudderia,texensis,Texas Bush Katydid,Scudderia texensis,FALSE,Scudderia texensis_Texas Bush Katydid
-NA,NA,NA,NA,NA,NA,NA,Siren,Siren,FALSE,Siren_Siren
 Animalia,Chordata,Amphibia,Anura,Scaphiopodidae,Spea,bombifrons,Plains Spadefoot,Spea bombifrons,FALSE,Spea bombifrons_Plains Spadefoot
 Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,striatus,Eastern Chipmunk,Tamias striatus,FALSE,Tamias striatus_Eastern Chipmunk
 Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamiasciurus,hudsonicus,Red Squirrel,Tamiasciurus hudsonicus,FALSE,Tamiasciurus hudsonicus_Red Squirrel

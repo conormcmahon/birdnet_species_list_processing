@@ -149,7 +149,7 @@ Animalia,Chordata,Aves,Passeriformes,Alaudidae,Alaudala,cheleensis,Asian Short-t
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,Alaudala,heinei,Turkestan Short-toed Lark,Alaudala heinei,TRUE,Alaudala heinei_Turkestan Short-toed Lark
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,Alaudala,raytal,Sand Lark,Alaudala raytal,TRUE,Alaudala raytal_Sand Lark
 Animalia,Chordata,Aves,Passeriformes,Alaudidae,Alaudala,rufescens,Mediterranean Short-toed Lark,Alaudala rufescens,TRUE,Alaudala rufescens_Mediterranean Short-toed Lark
-Animalia,CHORDATA,Aves,Passeriformes,Alaudidae,Alaudala,somalica,Somali Short-toed Lark,Alaudala somalica,TRUE,Alaudala somalica_Somali Short-toed Lark
+Animalia,Chordata,Aves,Passeriformes,Alaudidae,Alaudala,somalica,Somali Short-toed Lark,Alaudala somalica,TRUE,Alaudala somalica_Somali Short-toed Lark
 Animalia,Chordata,Aves,Charadriiformes,Alcidae,Alca,torda,Razorbill,Alca torda,TRUE,Alca torda_Razorbill
 Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Alcedo,atthis,Common Kingfisher,Alcedo atthis,TRUE,Alcedo atthis_Common Kingfisher
 Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Alcedo,meninting,Blue-eared Kingfisher,Alcedo meninting,TRUE,Alcedo meninting_Blue-eared Kingfisher
@@ -169,7 +169,7 @@ Animalia,Chordata,Aves,Galliformes,Phasianidae,Alectoris,rufa,Red-legged Partrid
 Animalia,Chordata,Aves,Galliformes,Megapodiidae,Alectura,lathami,Australian Brushturkey,Alectura lathami,TRUE,Alectura lathami_Australian Brushturkey
 Animalia,Chordata,Aves,Passeriformes,Turdidae,Alethe,castanea,Fire-crested Alethe,Alethe castanea,TRUE,Alethe castanea_Fire-crested Alethe
 Animalia,Chordata,Aves,Passeriformes,Turdidae,Alethe,diademata,White-tailed Alethe,Alethe diademata,TRUE,Alethe diademata_White-tailed Alethe
-ANIMALIA,Chordata,Aves,Psittaciformes,Psittacidae,Alipiopsitta,xanthops,Yellow-faced Parrot,Alipiopsitta xanthops,TRUE,Alipiopsitta xanthops_Yellow-faced Parrot
+Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Alipiopsitta,xanthops,Yellow-faced Parrot,Alipiopsitta xanthops,TRUE,Alipiopsitta xanthops_Yellow-faced Parrot
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Alisterus,scapularis,Australian King-Parrot,Alisterus scapularis,TRUE,Alisterus scapularis_Australian King-Parrot
 Animalia,Chordata,Aves,Passeriformes,Mimidae,Allenia,fusca,Scaly-breasted Thrasher,Allenia fusca,TRUE,Allenia fusca_Scaly-breasted Thrasher
 Animalia,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Allonemobius,allardi,Allard's Ground Cricket,Allonemobius allardi,FALSE,Allonemobius allardi_Allard's Ground Cricket
@@ -180,7 +180,7 @@ Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Alophoixus,flaveolus,White-thr
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Alophoixus,ochraceus,Ochraceous Bulbul,Alophoixus ochraceus,TRUE,Alophoixus ochraceus_Ochraceous Bulbul
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Alophoixus,pallidus,Puff-throated Bulbul,Alophoixus pallidus,TRUE,Alophoixus pallidus_Puff-throated Bulbul
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Alophoixus,phaeocephalus,Yellow-bellied Bulbul,Alophoixus phaeocephalus,TRUE,Alophoixus phaeocephalus_Yellow-bellied Bulbul
-Animalia,CHORDATA,Aves,Passeriformes,Pycnonotidae,Alophoixus,tephrogenys,Gray-cheeked Bulbul,Alophoixus tephrogenys,TRUE,Alophoixus tephrogenys_Gray-cheeked Bulbul
+Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Alophoixus,tephrogenys,Gray-cheeked Bulbul,Alophoixus tephrogenys,TRUE,Alophoixus tephrogenys_Gray-cheeked Bulbul
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Alopochelidon,fucata,Tawny-headed Swallow,Alopochelidon fucata,TRUE,Alopochelidon fucata_Tawny-headed Swallow
 Animalia,Chordata,Aves,Anseriformes,Anatidae,Alopochen,aegyptiaca,Egyptian Goose,Alopochen aegyptiaca,TRUE,Alopochen aegyptiaca_Egyptian Goose
 Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,pigra,Mexican Black Howler Monkey,Alouatta pigra,FALSE,Alouatta pigra_Mexican Black Howler Monkey
@@ -491,8 +491,8 @@ Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Argya,affinis,Yellow-billed 
 Metazoa,Chordata,Aves,Passeriformes,Leiothrichidae,Argya,caudata,Common Babbler,Argya caudata,TRUE,Argya caudata_Common Babbler
 Metazoa,Chordata,Aves,Passeriformes,Leiothrichidae,Argya,earlei,Striated Babbler,Argya earlei,TRUE,Argya earlei_Striated Babbler
 Metazoa,Chordata,Aves,Passeriformes,Leiothrichidae,Argya,malcolmi,Large Gray Babbler,Argya malcolmi,TRUE,Argya malcolmi_Large Gray Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Leiothrichidae,Argya,striata,Jungle Babbler,Argya striata,TRUE,Argya striata_Jungle Babbler
-ANIMALIA,CHORDATA,Aves,Passeriformes,Leiothrichidae,Argya,subrufa,Rufous Babbler,Argya subrufa,TRUE,Argya subrufa_Rufous Babbler
+Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Argya,striata,Jungle Babbler,Argya striata,TRUE,Argya striata_Jungle Babbler
+Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Argya,subrufa,Rufous Babbler,Argya subrufa,TRUE,Argya subrufa_Rufous Babbler
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Arizelocichla,masukuensis,Shelley's Greenbul,Arizelocichla masukuensis,TRUE,Arizelocichla masukuensis_Shelley's Greenbul
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Arizelocichla,milanjensis,Stripe-cheeked Greenbul,Arizelocichla milanjensis,TRUE,Arizelocichla milanjensis_Stripe-cheeked Greenbul
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Arizelocichla,nigriceps,Eastern Mountain Greenbul,Arizelocichla nigriceps,TRUE,Arizelocichla nigriceps_Eastern Mountain Greenbul
@@ -545,7 +545,7 @@ Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,dorbignyi,Creamy-breas
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,flammulata,Many-striped Canastero,Asthenes flammulata,TRUE,Asthenes flammulata_Many-striped Canastero
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,fuliginosa,White-chinned Thistletail,Asthenes fuliginosa,TRUE,Asthenes fuliginosa_White-chinned Thistletail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,griseomurina,Mouse-colored Thistletail,Asthenes griseomurina,TRUE,Asthenes griseomurina_Mouse-colored Thistletail
-Animalia,CHORDATA,Aves,Passeriformes,Furnariidae,Asthenes,harterti,Black-throated Thistletail,Asthenes harterti,TRUE,Asthenes harterti_Black-throated Thistletail
+Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,harterti,Black-throated Thistletail,Asthenes harterti,TRUE,Asthenes harterti_Black-throated Thistletail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,helleri,Puna Thistletail,Asthenes helleri,TRUE,Asthenes helleri_Puna Thistletail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,heterura,Maquis Canastero,Asthenes heterura,TRUE,Asthenes heterura_Maquis Canastero
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,hudsoni,Hudson's Canastero,Asthenes hudsoni,TRUE,Asthenes hudsoni_Hudson's Canastero
@@ -554,7 +554,7 @@ Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,maculicauda,Scribble-t
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,modesta,Cordilleran Canastero,Asthenes modesta,TRUE,Asthenes modesta_Cordilleran Canastero
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,moreirae,Itatiaia Spinetail,Asthenes moreirae,TRUE,Asthenes moreirae_Itatiaia Spinetail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,ottonis,Rusty-fronted Canastero,Asthenes ottonis,TRUE,Asthenes ottonis_Rusty-fronted Canastero
-Animalia,CHORDATA,Aves,Passeriformes,Furnariidae,Asthenes,palpebralis,Eye-ringed Thistletail,Asthenes palpebralis,TRUE,Asthenes palpebralis_Eye-ringed Thistletail
+Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,palpebralis,Eye-ringed Thistletail,Asthenes palpebralis,TRUE,Asthenes palpebralis_Eye-ringed Thistletail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,perijana,Perija Thistletail,Asthenes perijana,TRUE,Asthenes perijana_Perija Thistletail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,pudibunda,Canyon Canastero,Asthenes pudibunda,TRUE,Asthenes pudibunda_Canyon Canastero
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,pyrrholeuca,Sharp-billed Canastero,Asthenes pyrrholeuca,TRUE,Asthenes pyrrholeuca_Sharp-billed Canastero
@@ -565,7 +565,7 @@ Animalia,Chordata,Aves,Passeriformes,Furnariidae,Asthenes,wyatti,Streak-backed C
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Atalotriccus,pilaris,Pale-eyed Pygmy-Tyrant,Atalotriccus pilaris,TRUE,Atalotriccus pilaris_Pale-eyed Pygmy-Tyrant
 Animalia,Chordata,Aves,Coraciiformes,Brachypteraciidae,Atelornis,crossleyi,Rufous-headed Ground-Roller,Atelornis crossleyi,TRUE,Atelornis crossleyi_Rufous-headed Ground-Roller
 Animalia,Chordata,Aves,Coraciiformes,Brachypteraciidae,Atelornis,pittoides,Pitta-like Ground-Roller,Atelornis pittoides,TRUE,Atelornis pittoides_Pitta-like Ground-Roller
-ANIMALIA,Chordata,Aves,Strigiformes,Strigidae,Athene,blewitti,Forest Owlet,Athene blewitti,TRUE,Athene blewitti_Forest Owlet
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,blewitti,Forest Owlet,Athene blewitti,TRUE,Athene blewitti_Forest Owlet
 Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,brama,Spotted Owlet,Athene brama,TRUE,Athene brama_Spotted Owlet
 Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,cunicularia,Burrowing Owl,Athene cunicularia,TRUE,Athene cunicularia_Burrowing Owl
 Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,noctua,Little Owl,Athene noctua,TRUE,Athene noctua_Little Owl
@@ -765,7 +765,7 @@ Animalia,Chordata,Aves,Bucerotiformes,Bucerotidae,Buceros,vigil,Helmeted Hornbil
 Animalia,Chordata,Aves,Bucerotiformes,Bucorvidae,Bucorvus,leadbeateri,Southern Ground-Hornbill,Bucorvus leadbeateri,TRUE,Bucorvus leadbeateri_Southern Ground-Hornbill
 Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Bulweria,bulwerii,Bulwer's Petrel,Bulweria bulwerii,TRUE,Bulweria bulwerii_Bulwer's Petrel
 Animalia,Chordata,Aves,Passeriformes,Buphagidae,Buphagus,africanus,Yellow-billed Oxpecker,Buphagus africanus,TRUE,Buphagus africanus_Yellow-billed Oxpecker
-Animalia,CHORDATA,Aves,Passeriformes,Buphagidae,Buphagus,erythrorynchus,Red-billed Oxpecker,Buphagus erythrorynchus,TRUE,Buphagus erythrorynchus_Red-billed Oxpecker
+Animalia,Chordata,Aves,Passeriformes,Buphagidae,Buphagus,erythrorynchus,Red-billed Oxpecker,Buphagus erythrorynchus,TRUE,Buphagus erythrorynchus_Red-billed Oxpecker
 Animalia,Chordata,Aves,Charadriiformes,Burhinidae,Burhinus,bistriatus,Double-striped Thick-knee,Burhinus bistriatus,TRUE,Burhinus bistriatus_Double-striped Thick-knee
 Animalia,Chordata,Aves,Charadriiformes,Burhinidae,Burhinus,capensis,Spotted Thick-knee,Burhinus capensis,TRUE,Burhinus capensis_Spotted Thick-knee
 Animalia,Chordata,Aves,Charadriiformes,Burhinidae,Burhinus,grallarius,Bush Thick-knee,Burhinus grallarius,TRUE,Burhinus grallarius_Bush Thick-knee
@@ -819,7 +819,7 @@ Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,cela,Yellow-rumped Caciqu
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,chrysonotus,Mountain Cacique,Cacicus chrysonotus,TRUE,Cacicus chrysonotus_Mountain Cacique
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,chrysopterus,Golden-winged Cacique,Cacicus chrysopterus,TRUE,Cacicus chrysopterus_Golden-winged Cacique
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,haemorrhous,Red-rumped Cacique,Cacicus haemorrhous,TRUE,Cacicus haemorrhous_Red-rumped Cacique
-Animalia,CHORDATA,Aves,Passeriformes,Icteridae,Cacicus,latirostris,Band-tailed Cacique,Cacicus latirostris,TRUE,Cacicus latirostris_Band-tailed Cacique
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,latirostris,Band-tailed Cacique,Cacicus latirostris,TRUE,Cacicus latirostris_Band-tailed Cacique
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,oseryi,Casqued Cacique,Cacicus oseryi,TRUE,Cacicus oseryi_Casqued Cacique
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,solitarius,Solitary Black Cacique,Cacicus solitarius,TRUE,Cacicus solitarius_Solitary Black Cacique
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Cacicus,uropygialis,Scarlet-rumped Cacique,Cacicus uropygialis,TRUE,Cacicus uropygialis_Scarlet-rumped Cacique
@@ -1311,9 +1311,9 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cichladusa,arquata,Collared Pa
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cichladusa,guttata,Spotted Morning-Thrush,Cichladusa guttata,TRUE,Cichladusa guttata_Spotted Morning-Thrush
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cichlocolaptes,leucophrus,Pale-browed Treehunter,Cichlocolaptes leucophrus,TRUE,Cichlocolaptes leucophrus_Pale-browed Treehunter
 Animalia,Chordata,Aves,Passeriformes,Turdidae,Cichlopsis,leucogenys,Rufous-brown Solitaire,Cichlopsis leucogenys,TRUE,Cichlopsis leucogenys_Rufous-brown Solitaire
-Animalia,CHORDATA,Aves,Passeriformes,Paradisaeidae,Cicinnurus,magnificus,Magnificent Bird-of-Paradise,Cicinnurus magnificus,TRUE,Cicinnurus magnificus_Magnificent Bird-of-Paradise
+Animalia,Chordata,Aves,Passeriformes,Paradisaeidae,Cicinnurus,magnificus,Magnificent Bird-of-Paradise,Cicinnurus magnificus,TRUE,Cicinnurus magnificus_Magnificent Bird-of-Paradise
 Animalia,Chordata,Aves,Passeriformes,Paradisaeidae,Cicinnurus,regius,King Bird-of-Paradise,Cicinnurus regius,TRUE,Cicinnurus regius_King Bird-of-Paradise
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,PARADISAEIDAE,Cicinnurus,respublica,Wilson's Bird-of-Paradise,Cicinnurus respublica,TRUE,Cicinnurus respublica_Wilson's Bird-of-Paradise
+Animalia,Chordata,Aves,Passeriformes,PARADISAEIDAE,Cicinnurus,respublica,Wilson's Bird-of-Paradise,Cicinnurus respublica,TRUE,Cicinnurus respublica_Wilson's Bird-of-Paradise
 Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Ciconia,ciconia,White Stork,Ciconia ciconia,TRUE,Ciconia ciconia_White Stork
 Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Ciconia,nigra,Black Stork,Ciconia nigra,TRUE,Ciconia nigra_Black Stork
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cinclidium,frontale,Blue-fronted Robin,Cinclidium frontale,TRUE,Cinclidium frontale_Blue-fronted Robin
@@ -1410,7 +1410,7 @@ Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Cisticola,woosnami,Trilling Ci
 Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,apolinari,Apolinar's Wren,Cistothorus apolinari,TRUE,Cistothorus apolinari_Apolinar's Wren
 Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,palustris,Marsh Wren,Cistothorus palustris,TRUE,Cistothorus palustris_Marsh Wren
 Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,platensis,Grass Wren,Cistothorus platensis,TRUE,Cistothorus platensis_Grass Wren
-Animalia,CHORDATA,AVES,Passeriformes,Troglodytidae,Cistothorus,stellaris,Sedge Wren,Cistothorus stellaris,TRUE,Cistothorus stellaris_Sedge Wren
+Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Cistothorus,stellaris,Sedge Wren,Cistothorus stellaris,TRUE,Cistothorus stellaris_Sedge Wren
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Clamator,coromandus,Chestnut-winged Cuckoo,Clamator coromandus,TRUE,Clamator coromandus_Chestnut-winged Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Clamator,glandarius,Great Spotted Cuckoo,Clamator glandarius,TRUE,Clamator glandarius_Great Spotted Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Clamator,jacobinus,Pied Cuckoo,Clamator jacobinus,TRUE,Clamator jacobinus_Pied Cuckoo
@@ -1436,16 +1436,16 @@ Animalia,Chordata,Aves,Passeriformes,Estrildidae,Coccopygia,quartinia,Yellow-bel
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,Coccothraustes,abeillei,Hooded Grosbeak,Coccothraustes abeillei,TRUE,Coccothraustes abeillei_Hooded Grosbeak
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,Coccothraustes,coccothraustes,Hawfinch,Coccothraustes coccothraustes,TRUE,Coccothraustes coccothraustes_Hawfinch
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,Coccothraustes,vespertinus,Evening Grosbeak,Coccothraustes vespertinus,TRUE,Coccothraustes vespertinus_Evening Grosbeak
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Coccycua,cinerea,Ash-colored Cuckoo,Coccycua cinerea,TRUE,Coccycua cinerea_Ash-colored Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccycua,cinerea,Ash-colored Cuckoo,Coccycua cinerea,TRUE,Coccycua cinerea_Ash-colored Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccycua,minuta,Little Cuckoo,Coccycua minuta,TRUE,Coccycua minuta_Little Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,americanus,Yellow-billed Cuckoo,Coccyzus americanus,TRUE,Coccyzus americanus_Yellow-billed Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,erythropthalmus,Black-billed Cuckoo,Coccyzus erythropthalmus,TRUE,Coccyzus erythropthalmus_Black-billed Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,euleri,Pearly-breasted Cuckoo,Coccyzus euleri,TRUE,Coccyzus euleri_Pearly-breasted Cuckoo
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Coccyzus,longirostris,Hispaniolan Lizard-Cuckoo,Coccyzus longirostris,TRUE,Coccyzus longirostris_Hispaniolan Lizard-Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,longirostris,Hispaniolan Lizard-Cuckoo,Coccyzus longirostris,TRUE,Coccyzus longirostris_Hispaniolan Lizard-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,melacoryphus,Dark-billed Cuckoo,Coccyzus melacoryphus,TRUE,Coccyzus melacoryphus_Dark-billed Cuckoo
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Coccyzus,merlini,Great Lizard-Cuckoo,Coccyzus merlini,TRUE,Coccyzus merlini_Great Lizard-Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,merlini,Great Lizard-Cuckoo,Coccyzus merlini,TRUE,Coccyzus merlini_Great Lizard-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,minor,Mangrove Cuckoo,Coccyzus minor,TRUE,Coccyzus minor_Mangrove Cuckoo
-Animalia,CHORDATA,AVES,CUCULIFORMES,Cuculidae,Coccyzus,vieilloti,Puerto Rican Lizard-Cuckoo,Coccyzus vieilloti,TRUE,Coccyzus vieilloti_Puerto Rican Lizard-Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,vieilloti,Puerto Rican Lizard-Cuckoo,Coccyzus vieilloti,TRUE,Coccyzus vieilloti_Puerto Rican Lizard-Cuckoo
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Cochlearius,cochlearius,Boat-billed Heron,Cochlearius cochlearius,TRUE,Cochlearius cochlearius_Boat-billed Heron
 Animalia,Chordata,Aves,Passeriformes,Turdidae,Cochoa,viridis,Green Cochoa,Cochoa viridis,TRUE,Cochoa viridis_Green Cochoa
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Coeligena,coeligena,Bronzy Inca,Coeligena coeligena,TRUE,Coeligena coeligena_Bronzy Inca
@@ -1728,7 +1728,7 @@ Animalia,Chordata,Aves,Passeriformes,Stenostiridae,Culicicapa,ceylonensis,Gray-h
 Animalia,Chordata,Aves,Passeriformes,Stenostiridae,Culicicapa,helianthea,Citrine Canary-Flycatcher,Culicicapa helianthea,TRUE,Culicicapa helianthea_Citrine Canary-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Culicivora,caudacuta,Sharp-tailed Tyrant,Culicivora caudacuta,TRUE,Culicivora caudacuta_Sharp-tailed Tyrant
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Curaeus,curaeus,Austral Blackbird,Curaeus curaeus,TRUE,Curaeus curaeus_Austral Blackbird
-Animalia,CHORDATA,Aves,Passeriformes,Sylviidae,Curruca,boehmi,Banded Parisoma,Curruca boehmi,TRUE,Curruca boehmi_Banded Parisoma
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,Curruca,boehmi,Banded Parisoma,Curruca boehmi,TRUE,Curruca boehmi_Banded Parisoma
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,Curruca,communis,Greater Whitethroat,Curruca communis,TRUE,Curruca communis_Greater Whitethroat
 Metazoa,Chordata,Aves,Passeriformes,Sylviidae,Curruca,conspicillata,Spectacled Warbler,Curruca conspicillata,TRUE,Curruca conspicillata_Spectacled Warbler
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,Curruca,crassirostris,Eastern Orphean Warbler,Curruca crassirostris,TRUE,Curruca crassirostris_Eastern Orphean Warbler
@@ -1766,7 +1766,7 @@ Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,violaceus,Violaceous Ja
 Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,yncas,Green Jay,Cyanocorax yncas,TRUE,Cyanocorax yncas_Green Jay
 Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocorax,yucatanicus,Yucatan Jay,Cyanocorax yucatanicus,TRUE,Cyanocorax yucatanicus_Yucatan Jay
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Cyanoderma,ambiguum,Buff-chested Babbler,Cyanoderma ambiguum,TRUE,Cyanoderma ambiguum_Buff-chested Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Timaliidae,Cyanoderma,chrysaeum,Golden Babbler,Cyanoderma chrysaeum,TRUE,Cyanoderma chrysaeum_Golden Babbler
+Animalia,Chordata,Aves,Passeriformes,Timaliidae,Cyanoderma,chrysaeum,Golden Babbler,Cyanoderma chrysaeum,TRUE,Cyanoderma chrysaeum_Golden Babbler
 Metazoa,Chordata,Aves,Passeriformes,Timaliidae,Cyanoderma,erythropterum,Chestnut-winged Babbler,Cyanoderma erythropterum,TRUE,Cyanoderma erythropterum_Chestnut-winged Babbler
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Cyanoderma,melanothorax,Crescent-chested Babbler,Cyanoderma melanothorax,TRUE,Cyanoderma melanothorax_Crescent-chested Babbler
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Cyanoderma,pyrrhops,Black-chinned Babbler,Cyanoderma pyrrhops,TRUE,Cyanoderma pyrrhops_Black-chinned Babbler
@@ -1818,7 +1818,7 @@ Metazoa,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,pallidipes,White-bellie
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,poliogenys,Pale-chinned Blue Flycatcher,Cyornis poliogenys,TRUE,Cyornis poliogenys_Pale-chinned Blue Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,rubeculoides,Blue-throated Flycatcher,Cyornis rubeculoides,TRUE,Cyornis rubeculoides_Blue-throated Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,rufigastra,Mangrove Blue Flycatcher,Cyornis rufigastra,TRUE,Cyornis rufigastra_Mangrove Blue Flycatcher
-Animalia,CHORDATA,Aves,Passeriformes,Muscicapidae,Cyornis,sumatrensis,Indochinese Blue Flycatcher,Cyornis sumatrensis,TRUE,Cyornis sumatrensis_Indochinese Blue Flycatcher
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,sumatrensis,Indochinese Blue Flycatcher,Cyornis sumatrensis,TRUE,Cyornis sumatrensis_Indochinese Blue Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,superbus,Bornean Blue Flycatcher,Cyornis superbus,TRUE,Cyornis superbus_Bornean Blue Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,tickelliae,Tickell's Blue Flycatcher,Cyornis tickelliae,TRUE,Cyornis tickelliae_Tickell's Blue Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Cyornis,turcosus,Malaysian Blue Flycatcher,Cyornis turcosus,TRUE,Cyornis turcosus_Malaysian Blue Flycatcher
@@ -1948,7 +1948,7 @@ Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Diopsittaca,nobilis,Red-should
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Diuca,diuca,Diuca Finch,Diuca diuca,TRUE,Diuca diuca_Diuca Finch
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Dives,dives,Melodious Blackbird,Dives dives,TRUE,Dives dives_Melodious Blackbird
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Dives,warczewiczi,Scrub Blackbird,Dives warczewiczi,TRUE,Dives warczewiczi_Scrub Blackbird
-NA,NA,NA,NA,NA,NA,NA,Dog,Dog,FALSE,Dog_Dog
+NA,NA,NA,NA,NA,NA,NA,Dog,Dog,NA,Dog_Dog
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx,oryzivorus,Bobolink,Dolichonyx oryzivorus,TRUE,Dolichonyx oryzivorus_Bobolink
 Animalia,Chordata,Aves,Passeriformes,Donacobiidae,Donacobius,atricapilla,Black-capped Donacobius,Donacobius atricapilla,TRUE,Donacobius atricapilla_Black-capped Donacobius
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Donacospiza,albifrons,Long-tailed Reed Finch,Donacospiza albifrons,TRUE,Donacospiza albifrons_Long-tailed Reed Finch
@@ -2031,7 +2031,7 @@ Animalia,Chordata,Aves,Columbiformes,Columbidae,Ducula,spilorrhoa,Torresian Impe
 Animalia,Chordata,Aves,Columbiformes,Columbidae,Ducula,zoeae,Zoe's Imperial-Pigeon,Ducula zoeae,TRUE,Ducula zoeae_Zoe's Imperial-Pigeon
 Animalia,Chordata,Aves,Passeriformes,Dulidae,Dulus,dominicus,Palmchat,Dulus dominicus,TRUE,Dulus dominicus_Palmchat
 Animalia,Chordata,Aves,Passeriformes,Mimidae,Dumetella,carolinensis,Gray Catbird,Dumetella carolinensis,TRUE,Dumetella carolinensis_Gray Catbird
-Animalia,CHORDATA,Aves,Passeriformes,Timaliidae,Dumetia,atriceps,Dark-fronted Babbler,Dumetia atriceps,TRUE,Dumetia atriceps_Dark-fronted Babbler
+Animalia,Chordata,Aves,Passeriformes,Timaliidae,Dumetia,atriceps,Dark-fronted Babbler,Dumetia atriceps,TRUE,Dumetia atriceps_Dark-fronted Babbler
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Dumetia,hyperythra,Tawny-bellied Babbler,Dumetia hyperythra,TRUE,Dumetia hyperythra_Tawny-bellied Babbler
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Dysithamnus,leucostictus,White-streaked Antvireo,Dysithamnus leucostictus,TRUE,Dysithamnus leucostictus_White-streaked Antvireo
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Dysithamnus,mentalis,Plain Antvireo,Dysithamnus mentalis,TRUE,Dysithamnus mentalis_Plain Antvireo
@@ -2042,7 +2042,7 @@ Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Dysithamnus,stictothorax,Spo
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Dysithamnus,striaticeps,Streak-crowned Antvireo,Dysithamnus striaticeps,TRUE,Dysithamnus striaticeps_Streak-crowned Antvireo
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Dysithamnus,xanthopterus,Rufous-backed Antvireo,Dysithamnus xanthopterus,TRUE,Dysithamnus xanthopterus_Rufous-backed Antvireo
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Eclectus,roratus,Eclectus Parrot,Eclectus roratus,TRUE,Eclectus roratus_Eclectus Parrot
-Animalia,CHORDATA,Aves,Passeriformes,Campephagidae,Edolisoma,montanum,Black-bellied Cicadabird,Edolisoma montanum,TRUE,Edolisoma montanum_Black-bellied Cicadabird
+Animalia,Chordata,Aves,Passeriformes,Campephagidae,Edolisoma,montanum,Black-bellied Cicadabird,Edolisoma montanum,TRUE,Edolisoma montanum_Black-bellied Cicadabird
 Metazoa,Chordata,Aves,Passeriformes,Campephagidae,Edolisoma,tenuirostre,Common Cicadabird,Edolisoma tenuirostre,TRUE,Edolisoma tenuirostre_Common Cicadabird
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,caerulea,Little Blue Heron,Egretta caerulea,TRUE,Egretta caerulea_Little Blue Heron
 Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,eulophotes,Chinese Egret,Egretta eulophotes,TRUE,Egretta eulophotes_Chinese Egret
@@ -2142,7 +2142,7 @@ Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,virescens,Acadian Flyc
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,wrightii,Gray Flycatcher,Empidonax wrightii,TRUE,Empidonax wrightii_Gray Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus,aurantioatrocristatus,Crowned Slaty Flycatcher,Empidonomus aurantioatrocristatus,TRUE,Empidonomus aurantioatrocristatus_Crowned Slaty Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonomus,varius,Variegated Flycatcher,Empidonomus varius,TRUE,Empidonomus varius_Variegated Flycatcher
-NA,NA,NA,NA,NA,NA,NA,Engine,Engine,FALSE,Engine_Engine
+NA,NA,NA,NA,NA,NA,NA,Engine,Engine,NA,Engine_Engine
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Enicognathus,ferrugineus,Austral Parakeet,Enicognathus ferrugineus,TRUE,Enicognathus ferrugineus_Austral Parakeet
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Enicognathus,leptorhynchus,Slender-billed Parakeet,Enicognathus leptorhynchus,TRUE,Enicognathus leptorhynchus_Slender-billed Parakeet
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Enicurus,leschenaulti,White-crowned Forktail,Enicurus leschenaulti,TRUE,Enicurus leschenaulti_White-crowned Forktail
@@ -2151,7 +2151,7 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Enicurus,schistaceus,Slaty-bac
 Animalia,Chordata,Aves,Passeriformes,Turdidae,Entomodestes,coracinus,Black Solitaire,Entomodestes coracinus,TRUE,Entomodestes coracinus_Black Solitaire
 Animalia,Chordata,Aves,Passeriformes,Turdidae,Entomodestes,leucotis,White-eared Solitaire,Entomodestes leucotis,TRUE,Entomodestes leucotis_White-eared Solitaire
 Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Entomyzon,cyanotis,Blue-faced Honeyeater,Entomyzon cyanotis,TRUE,Entomyzon cyanotis_Blue-faced Honeyeater
-NA,NA,NA,NA,NA,NA,NA,Environmental,Environmental,FALSE,Environmental_Environmental
+NA,NA,NA,NA,NA,NA,NA,Environmental,Environmental,NA,Environmental_Environmental
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Eolophus,roseicapilla,Galah,Eolophus roseicapilla,TRUE,Eolophus roseicapilla_Galah
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,Eophona,migratoria,Yellow-billed Grosbeak,Eophona migratoria,TRUE,Eophona migratoria_Yellow-billed Grosbeak
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,Eophona,personata,Japanese Grosbeak,Eophona personata,TRUE,Eophona personata_Japanese Grosbeak
@@ -2178,17 +2178,17 @@ Animalia,Chordata,Aves,Passeriformes,Alaudidae,Eremopterix,nigriceps,Black-crown
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Erithacus,rubecula,European Robin,Erithacus rubecula,TRUE,Erithacus rubecula_European Robin
 Animalia,Chordata,Aves,Passeriformes,Vireonidae,Erpornis,zantholeuca,White-bellied Erpornis,Erpornis zantholeuca,TRUE,Erpornis zantholeuca_White-bellied Erpornis
 Animalia,Chordata,Aves,Passeriformes,Erythrocercidae,Erythrocercus,holochlorus,Yellow Flycatcher,Erythrocercus holochlorus,TRUE,Erythrocercus holochlorus_Yellow Flycatcher
-Animalia,CHORDATA,AVES,PASSERIFORMES,Timaliidae,Erythrogenys,erythrocnemis,Black-necklaced Scimitar-Babbler,Erythrogenys erythrocnemis,TRUE,Erythrogenys erythrocnemis_Black-necklaced Scimitar-Babbler
+Animalia,Chordata,Aves,Passeriformes,Timaliidae,Erythrogenys,erythrocnemis,Black-necklaced Scimitar-Babbler,Erythrogenys erythrocnemis,TRUE,Erythrogenys erythrocnemis_Black-necklaced Scimitar-Babbler
 Metazoa,Chordata,Aves,Passeriformes,Timaliidae,Erythrogenys,erythrogenys,Rusty-cheeked Scimitar-Babbler,Erythrogenys erythrogenys,TRUE,Erythrogenys erythrogenys_Rusty-cheeked Scimitar-Babbler
 Metazoa,Chordata,Aves,Passeriformes,Timaliidae,Erythrogenys,gravivox,Black-streaked Scimitar-Babbler,Erythrogenys gravivox,TRUE,Erythrogenys gravivox_Black-streaked Scimitar-Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Timaliidae,Erythrogenys,hypoleucos,Large Scimitar-Babbler,Erythrogenys hypoleucos,TRUE,Erythrogenys hypoleucos_Large Scimitar-Babbler
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TIMALIIDAE,Erythrogenys,mcclellandi,Spot-breasted Scimitar-Babbler,Erythrogenys mcclellandi,TRUE,Erythrogenys mcclellandi_Spot-breasted Scimitar-Babbler
+Animalia,Chordata,Aves,Passeriformes,Timaliidae,Erythrogenys,hypoleucos,Large Scimitar-Babbler,Erythrogenys hypoleucos,TRUE,Erythrogenys hypoleucos_Large Scimitar-Babbler
+Animalia,Chordata,Aves,Passeriformes,TIMALIIDAE,Erythrogenys,mcclellandi,Spot-breasted Scimitar-Babbler,Erythrogenys mcclellandi,TRUE,Erythrogenys mcclellandi_Spot-breasted Scimitar-Babbler
 Metazoa,Chordata,Aves,Passeriformes,Timaliidae,Erythrogenys,swinhoei,Gray-sided Scimitar-Babbler,Erythrogenys swinhoei,TRUE,Erythrogenys swinhoei_Gray-sided Scimitar-Babbler
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Erythropitta,arquata,Blue-banded Pitta,Erythropitta arquata,TRUE,Erythropitta arquata_Blue-banded Pitta
 Metazoa,Chordata,Aves,Passeriformes,Pittidae,Erythropitta,erythrogaster,Blue-breasted Pitta,Erythropitta erythrogaster,TRUE,Erythropitta erythrogaster_Blue-breasted Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Erythropitta,granatina,Garnet Pitta,Erythropitta granatina,TRUE,Erythropitta granatina_Garnet Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Erythropitta,macklotii,Papuan Pitta,Erythropitta macklotii,TRUE,Erythropitta macklotii_Papuan Pitta
-Animalia,CHORDATA,Aves,Passeriformes,Pittidae,Erythropitta,rufiventris,North Moluccan Pitta,Erythropitta rufiventris,TRUE,Erythropitta rufiventris_North Moluccan Pitta
+Animalia,Chordata,Aves,Passeriformes,Pittidae,Erythropitta,rufiventris,North Moluccan Pitta,Erythropitta rufiventris,TRUE,Erythropitta rufiventris_North Moluccan Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Erythropitta,ussheri,Black-crowned Pitta,Erythropitta ussheri,TRUE,Erythropitta ussheri_Black-crowned Pitta
 Animalia,Chordata,Aves,Passeriformes,Estrildidae,Erythrura,trichroa,Blue-faced Parrotfinch,Erythrura trichroa,TRUE,Erythrura trichroa_Blue-faced Parrotfinch
 Animalia,Chordata,Aves,Charadriiformes,Burhinidae,Esacus,magnirostris,Beach Thick-knee,Esacus magnirostris,TRUE,Esacus magnirostris_Beach Thick-knee
@@ -2282,7 +2282,7 @@ Animalia,Chordata,Aves,Passeriformes,Eurylaimidae,Eurylaimus,ochromalus,Black-an
 Animalia,Chordata,Aves,Eurypygiformes,Eurypygidae,Eurypyga,helias,Sunbittern,Eurypyga helias,TRUE,Eurypyga helias_Sunbittern
 Animalia,Chordata,Aves,Coraciiformes,Coraciidae,Eurystomus,glaucurus,Broad-billed Roller,Eurystomus glaucurus,TRUE,Eurystomus glaucurus_Broad-billed Roller
 Animalia,Chordata,Aves,Coraciiformes,Coraciidae,Eurystomus,orientalis,Dollarbird,Eurystomus orientalis,TRUE,Eurystomus orientalis_Dollarbird
-Animalia,CHORDATA,Aves,Passeriformes,Tyrannidae,Euscarthmus,fulviceps,Fulvous-headed Pygmy-Tyrant,Euscarthmus fulviceps,TRUE,Euscarthmus fulviceps_Fulvous-headed Pygmy-Tyrant
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Euscarthmus,fulviceps,Fulvous-headed Pygmy-Tyrant,Euscarthmus fulviceps,TRUE,Euscarthmus fulviceps_Fulvous-headed Pygmy-Tyrant
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Euscarthmus,meloryphus,Rufous-crowned Pygmy-Tyrant,Euscarthmus meloryphus,TRUE,Euscarthmus meloryphus_Rufous-crowned Pygmy-Tyrant
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Euscarthmus,rufomarginatus,Rufous-sided Pygmy-Tyrant,Euscarthmus rufomarginatus,TRUE,Euscarthmus rufomarginatus_Rufous-sided Pygmy-Tyrant
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Eutoxeres,aquila,White-tipped Sicklebill,Eutoxeres aquila,TRUE,Eutoxeres aquila_White-tipped Sicklebill
@@ -2308,15 +2308,15 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,albicollis,Collared F
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,basilanica,Little Slaty Flycatcher,Ficedula basilanica,TRUE,Ficedula basilanica_Little Slaty Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,dumetoria,Rufous-chested Flycatcher,Ficedula dumetoria,TRUE,Ficedula dumetoria_Rufous-chested Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,elisae,Green-backed Flycatcher,Ficedula elisae,TRUE,Ficedula elisae_Green-backed Flycatcher
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,MUSCICAPIDAE,Ficedula,erithacus,Slaty-backed Flycatcher,Ficedula erithacus,TRUE,Ficedula erithacus_Slaty-backed Flycatcher
-Animalia,CHORDATA,Aves,Passeriformes,Muscicapidae,Ficedula,hodgsoni,Pygmy Flycatcher,Ficedula hodgsoni,TRUE,Ficedula hodgsoni_Pygmy Flycatcher
+Animalia,Chordata,Aves,Passeriformes,MUSCICAPIDAE,Ficedula,erithacus,Slaty-backed Flycatcher,Ficedula erithacus,TRUE,Ficedula erithacus_Slaty-backed Flycatcher
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,hodgsoni,Pygmy Flycatcher,Ficedula hodgsoni,TRUE,Ficedula hodgsoni_Pygmy Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,hyperythra,Snowy-browed Flycatcher,Ficedula hyperythra,TRUE,Ficedula hyperythra_Snowy-browed Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,hypoleuca,European Pied Flycatcher,Ficedula hypoleuca,TRUE,Ficedula hypoleuca_European Pied Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,mugimaki,Mugimaki Flycatcher,Ficedula mugimaki,TRUE,Ficedula mugimaki_Mugimaki Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,narcissina,Narcissus Flycatcher,Ficedula narcissina,TRUE,Ficedula narcissina_Narcissus Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,nigrorufa,Black-and-orange Flycatcher,Ficedula nigrorufa,TRUE,Ficedula nigrorufa_Black-and-orange Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,parva,Red-breasted Flycatcher,Ficedula parva,TRUE,Ficedula parva_Red-breasted Flycatcher
-Animalia,CHORDATA,Aves,Passeriformes,Muscicapidae,Ficedula,ruficauda,Rusty-tailed Flycatcher,Ficedula ruficauda,TRUE,Ficedula ruficauda_Rusty-tailed Flycatcher
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,ruficauda,Rusty-tailed Flycatcher,Ficedula ruficauda,TRUE,Ficedula ruficauda_Rusty-tailed Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,semitorquata,Semicollared Flycatcher,Ficedula semitorquata,TRUE,Ficedula semitorquata_Semicollared Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,strophiata,Rufous-gorgeted Flycatcher,Ficedula strophiata,TRUE,Ficedula strophiata_Rufous-gorgeted Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,subrubra,Kashmir Flycatcher,Ficedula subrubra,TRUE,Ficedula subrubra_Kashmir Flycatcher
@@ -2324,7 +2324,7 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,superciliaris,Ultrama
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,tricolor,Slaty-blue Flycatcher,Ficedula tricolor,TRUE,Ficedula tricolor_Slaty-blue Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,westermanni,Little Pied Flycatcher,Ficedula westermanni,TRUE,Ficedula westermanni_Little Pied Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Ficedula,zanthopygia,Yellow-rumped Flycatcher,Ficedula zanthopygia,TRUE,Ficedula zanthopygia_Yellow-rumped Flycatcher
-NA,NA,NA,NA,NA,NA,NA,Fireworks,Fireworks,FALSE,Fireworks_Fireworks
+NA,NA,NA,NA,NA,NA,NA,Fireworks,Fireworks,NA,Fireworks_Fireworks
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Florisuga,fusca,Black Jacobin,Florisuga fusca,TRUE,Florisuga fusca_Black Jacobin
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Florisuga,mellivora,White-necked Jacobin,Florisuga mellivora,TRUE,Florisuga mellivora_White-necked Jacobin
 Metazoa,Chordata,Aves,Passeriformes,Tyrannidae,Fluvicola,albiventer,Black-backed Water-Tyrant,Fluvicola albiventer,TRUE,Fluvicola albiventer_Black-backed Water-Tyrant
@@ -2336,7 +2336,7 @@ Animalia,Chordata,Aves,Passeriformes,Formicariidae,Formicarius,moniliger,Mayan A
 Animalia,Chordata,Aves,Passeriformes,Formicariidae,Formicarius,nigricapillus,Black-headed Antthrush,Formicarius nigricapillus,TRUE,Formicarius nigricapillus_Black-headed Antthrush
 Animalia,Chordata,Aves,Passeriformes,Formicariidae,Formicarius,rufifrons,Rufous-fronted Antthrush,Formicarius rufifrons,TRUE,Formicarius rufifrons_Rufous-fronted Antthrush
 Animalia,Chordata,Aves,Passeriformes,Formicariidae,Formicarius,rufipectus,Rufous-breasted Antthrush,Formicarius rufipectus,TRUE,Formicarius rufipectus_Rufous-breasted Antthrush
-Animalia,CHORDATA,Aves,Passeriformes,Thamnophilidae,Formicivora,acutirostris,Marsh Antwren,Formicivora acutirostris,TRUE,Formicivora acutirostris_Marsh Antwren
+Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Formicivora,acutirostris,Marsh Antwren,Formicivora acutirostris,TRUE,Formicivora acutirostris_Marsh Antwren
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Formicivora,erythronotos,Black-hooded Antwren,Formicivora erythronotos,TRUE,Formicivora erythronotos_Black-hooded Antwren
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Formicivora,grantsaui,Sincora Antwren,Formicivora grantsaui,TRUE,Formicivora grantsaui_Sincora Antwren
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Formicivora,grisea,White-fringed Antwren,Formicivora grisea,TRUE,Formicivora grisea_White-fringed Antwren
@@ -2608,7 +2608,7 @@ Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Guaruba,guarouba,Golden Parake
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Gubernatrix,cristata,Yellow Cardinal,Gubernatrix cristata,TRUE,Gubernatrix cristata_Yellow Cardinal
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Gubernetes,yetapa,Streamer-tailed Tyrant,Gubernetes yetapa,TRUE,Gubernetes yetapa_Streamer-tailed Tyrant
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Guira,guira,Guira Cuckoo,Guira guira,TRUE,Guira guira_Guira Cuckoo
-NA,NA,NA,NA,NA,NA,NA,Gun,Gun,FALSE,Gun_Gun
+NA,NA,NA,NA,NA,NA,NA,Gun,Gun,NA,Gun_Gun
 Animalia,Chordata,Aves,Galliformes,Numididae,Guttera,pucherani,Crested Guineafowl,Guttera pucherani,TRUE,Guttera pucherani_Crested Guineafowl
 Animalia,Chordata,Aves,Charadriiformes,Laridae,Gygis,alba,White Tern,Gygis alba,TRUE,Gygis alba_White Tern
 Animalia,NA,Aves,Strigiformes,Strigidae,Gymnasio,nudipes,Puerto Rican Owl,Gymnasio nudipes,TRUE,Gymnasio nudipes_Puerto Rican Owl
@@ -2629,7 +2629,7 @@ Animalia,Chordata,Aves,Passeriformes,Passeridae,Gymnoris,superciliaris,Yellow-th
 Animalia,Chordata,Aves,Passeriformes,Passeridae,Gymnoris,xanthocollis,Yellow-throated Sparrow,Gymnoris xanthocollis,TRUE,Gymnoris xanthocollis_Yellow-throated Sparrow
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Gyps,fulvus,Eurasian Griffon,Gyps fulvus,TRUE,Gyps fulvus_Eurasian Griffon
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Gyps,himalayensis,Himalayan Griffon,Gyps himalayensis,TRUE,Gyps himalayensis_Himalayan Griffon
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Gypsophila,brevicaudata,Streaked Wren-Babbler,Gypsophila brevicaudata,TRUE,Gypsophila brevicaudata_Streaked Wren-Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Gypsophila,brevicaudata,Streaked Wren-Babbler,Gypsophila brevicaudata,TRUE,Gypsophila brevicaudata_Streaked Wren-Babbler
 Animalia,NA,Aves,Passeriformes,Pellorneidae,Gypsophila,rufipectus,Rusty-breasted Wren-Babbler,Gypsophila rufipectus,TRUE,Gypsophila rufipectus_Rusty-breasted Wren-Babbler
 Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Habia,atrimaxillaris,Black-cheeked Ant-Tanager,Habia atrimaxillaris,TRUE,Habia atrimaxillaris_Black-cheeked Ant-Tanager
 Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Habia,cristata,Crested Ant-Tanager,Habia cristata,TRUE,Habia cristata_Crested Ant-Tanager
@@ -2708,8 +2708,8 @@ Animalia,Chordata,Aves,Apodiformes,Trochilidae,Heliothryx,auritus,Black-eared Fa
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Hellmayrea,gularis,White-browed Spinetail,Hellmayrea gularis,TRUE,Hellmayrea gularis_White-browed Spinetail
 Animalia,Chordata,Aves,Passeriformes,Parulidae,Helmitheros,vermivorum,Worm-eating Warbler,Helmitheros vermivorum,TRUE,Helmitheros vermivorum_Worm-eating Warbler
 Animalia,Chordata,Aves,Passeriformes,Locustellidae,Helopsaltes,certhiola,Pallas's Grasshopper Warbler,Helopsaltes certhiola,TRUE,Helopsaltes certhiola_Pallas's Grasshopper Warbler
-Animalia,CHORDATA,Aves,Passeriformes,Locustellidae,Helopsaltes,ochotensis,Middendorff's Grasshopper Warbler,Helopsaltes ochotensis,TRUE,Helopsaltes ochotensis_Middendorff's Grasshopper Warbler
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LOCUSTELLIDAE,Helopsaltes,pryeri,Marsh Grassbird,Helopsaltes pryeri,TRUE,Helopsaltes pryeri_Marsh Grassbird
+Animalia,Chordata,Aves,Passeriformes,Locustellidae,Helopsaltes,ochotensis,Middendorff's Grasshopper Warbler,Helopsaltes ochotensis,TRUE,Helopsaltes ochotensis_Middendorff's Grasshopper Warbler
+Animalia,Chordata,Aves,Passeriformes,LOCUSTELLIDAE,Helopsaltes,pryeri,Marsh Grassbird,Helopsaltes pryeri,TRUE,Helopsaltes pryeri_Marsh Grassbird
 Animalia,Chordata,Aves,Piciformes,Picidae,Hemicircus,canente,Heart-spotted Woodpecker,Hemicircus canente,TRUE,Hemicircus canente_Heart-spotted Woodpecker
 Animalia,Chordata,Aves,Piciformes,Picidae,Hemicircus,concretus,Gray-and-buff Woodpecker,Hemicircus concretus,TRUE,Hemicircus concretus_Gray-and-buff Woodpecker
 Animalia,Chordata,Aves,Passeriformes,Fringillidae,Hemignathus,wilsoni,Akiapolaau,Hemignathus wilsoni,TRUE,Hemignathus wilsoni_Akiapolaau
@@ -2780,13 +2780,13 @@ Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Heterophasia,picaoides,Long-
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Heterophasia,pulchella,Beautiful Sibia,Heterophasia pulchella,TRUE,Heterophasia pulchella_Beautiful Sibia
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Heterospingus,xanthopygius,Scarlet-browed Tanager,Heterospingus xanthopygius,TRUE,Heterospingus xanthopygius_Scarlet-browed Tanager
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Hieraaetus,pennatus,Booted Eagle,Hieraaetus pennatus,TRUE,Hieraaetus pennatus_Booted Eagle
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Hierococcyx,bocki,Dark Hawk-Cuckoo,Hierococcyx bocki,TRUE,Hierococcyx bocki_Dark Hawk-Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,bocki,Dark Hawk-Cuckoo,Hierococcyx bocki,TRUE,Hierococcyx bocki_Dark Hawk-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,fugax,Malaysian Hawk-Cuckoo,Hierococcyx fugax,TRUE,Hierococcyx fugax_Malaysian Hawk-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,hyperythrus,Northern Hawk-Cuckoo,Hierococcyx hyperythrus,TRUE,Hierococcyx hyperythrus_Northern Hawk-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,nisicolor,Hodgson's Hawk-Cuckoo,Hierococcyx nisicolor,TRUE,Hierococcyx nisicolor_Hodgson's Hawk-Cuckoo
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Hierococcyx,pectoralis,Philippine Hawk-Cuckoo,Hierococcyx pectoralis,TRUE,Hierococcyx pectoralis_Philippine Hawk-Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,pectoralis,Philippine Hawk-Cuckoo,Hierococcyx pectoralis,TRUE,Hierococcyx pectoralis_Philippine Hawk-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,sparverioides,Large Hawk-Cuckoo,Hierococcyx sparverioides,TRUE,Hierococcyx sparverioides_Large Hawk-Cuckoo
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Hierococcyx,vagans,Moustached Hawk-Cuckoo,Hierococcyx vagans,TRUE,Hierococcyx vagans_Moustached Hawk-Cuckoo
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,vagans,Moustached Hawk-Cuckoo,Hierococcyx vagans,TRUE,Hierococcyx vagans_Moustached Hawk-Cuckoo
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Hierococcyx,varius,Common Hawk-Cuckoo,Hierococcyx varius,TRUE,Hierococcyx varius_Common Hawk-Cuckoo
 Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,himantopus,Black-winged Stilt,Himantopus himantopus,TRUE,Himantopus himantopus_Black-winged Stilt
 Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,leucocephalus,Pied Stilt,Himantopus leucocephalus,TRUE,Himantopus leucocephalus_Pied Stilt
@@ -2817,14 +2817,14 @@ Animalia,Chordata,Aves,Passeriformes,Cettiidae,Horornis,fortipes,Brownish-flanke
 Animalia,Chordata,Aves,Passeriformes,Cettiidae,Horornis,ruficapilla,Fiji Bush Warbler,Horornis ruficapilla,TRUE,Horornis ruficapilla_Fiji Bush Warbler
 Animalia,Chordata,Aves,Passeriformes,Cettiidae,Horornis,seebohmi,Philippine Bush Warbler,Horornis seebohmi,TRUE,Horornis seebohmi_Philippine Bush Warbler
 Animalia,Chordata,Aves,Passeriformes,Cettiidae,Horornis,vulcanius,Sunda Bush Warbler,Horornis vulcanius,TRUE,Horornis vulcanius_Sunda Bush Warbler
-NA,NA,NA,NA,NA,NA,NA,Human non-vocal,Human non-vocal,FALSE,Human non-vocal_Human non-vocal
-NA,NA,NA,NA,NA,NA,NA,Human vocal,Human vocal,FALSE,Human vocal_Human vocal
-NA,NA,NA,NA,NA,NA,NA,Human whistle,Human whistle,FALSE,Human whistle_Human whistle
+NA,NA,NA,NA,NA,NA,NA,Human non-vocal,Human non-vocal,NA,Human non-vocal_Human non-vocal
+NA,NA,NA,NA,NA,NA,NA,Human vocal,Human vocal,NA,Human vocal_Human vocal
+NA,NA,NA,NA,NA,NA,NA,Human whistle,Human whistle,NA,Human whistle_Human whistle
 Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Hydrobates,castro,Band-rumped Storm-Petrel,Hydrobates castro,TRUE,Hydrobates castro_Band-rumped Storm-Petrel
 Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Hydrobates,leucorhous,Leach's Storm-Petrel,Hydrobates leucorhous,TRUE,Hydrobates leucorhous_Leach's Storm-Petrel
 Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Hydrobates,monorhis,Swinhoe's Storm-Petrel,Hydrobates monorhis,TRUE,Hydrobates monorhis_Swinhoe's Storm-Petrel
 Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Hydrobates,pelagicus,European Storm-Petrel,Hydrobates pelagicus,TRUE,Hydrobates pelagicus_European Storm-Petrel
-Animalia,CHORDATA,AVES,PROCELLARIIFORMES,Hydrobatidae,Hydrobates,tristrami,Tristram's Storm-Petrel,Hydrobates tristrami,TRUE,Hydrobates tristrami_Tristram's Storm-Petrel
+Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Hydrobates,tristrami,Tristram's Storm-Petrel,Hydrobates tristrami,TRUE,Hydrobates tristrami_Tristram's Storm-Petrel
 Animalia,Chordata,Aves,Charadriiformes,Laridae,Hydrocoloeus,minutus,Little Gull,Hydrocoloeus minutus,TRUE,Hydrocoloeus minutus_Little Gull
 Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Hydrophasianus,chirurgus,Pheasant-tailed Jacana,Hydrophasianus chirurgus,TRUE,Hydrophasianus chirurgus_Pheasant-tailed Jacana
 Animalia,Chordata,Aves,Charadriiformes,Laridae,Hydroprogne,caspia,Caspian Tern,Hydroprogne caspia,TRUE,Hydroprogne caspia_Caspian Tern
@@ -2833,10 +2833,10 @@ Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Hydropsalis,climacocerca,L
 Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Hydropsalis,maculicaudus,Spot-tailed Nightjar,Hydropsalis maculicaudus,TRUE,Hydropsalis maculicaudus_Spot-tailed Nightjar
 Animalia,Chordata,Aves,Caprimulgiformes,Caprimulgidae,Hydropsalis,torquata,Scissor-tailed Nightjar,Hydropsalis torquata,TRUE,Hydropsalis torquata_Scissor-tailed Nightjar
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,baudii,Blue-headed Pitta,Hydrornis baudii,TRUE,Hydrornis baudii_Blue-headed Pitta
-Animalia,CHORDATA,Aves,Passeriformes,Pittidae,Hydrornis,caeruleus,Giant Pitta,Hydrornis caeruleus,TRUE,Hydrornis caeruleus_Giant Pitta
-Animalia,CHORDATA,Aves,Passeriformes,Pittidae,Hydrornis,cyaneus,Blue Pitta,Hydrornis cyaneus,TRUE,Hydrornis cyaneus_Blue Pitta
+Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,caeruleus,Giant Pitta,Hydrornis caeruleus,TRUE,Hydrornis caeruleus_Giant Pitta
+Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,cyaneus,Blue Pitta,Hydrornis cyaneus,TRUE,Hydrornis cyaneus_Blue Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,elliotii,Bar-bellied Pitta,Hydrornis elliotii,TRUE,Hydrornis elliotii_Bar-bellied Pitta
-Animalia,CHORDATA,Aves,Passeriformes,Pittidae,Hydrornis,irena,Malayan Banded-Pitta,Hydrornis irena,TRUE,Hydrornis irena_Malayan Banded-Pitta
+Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,irena,Malayan Banded-Pitta,Hydrornis irena,TRUE,Hydrornis irena_Malayan Banded-Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,nipalensis,Blue-naped Pitta,Hydrornis nipalensis,TRUE,Hydrornis nipalensis_Blue-naped Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,oatesi,Rusty-naped Pitta,Hydrornis oatesi,TRUE,Hydrornis oatesi_Rusty-naped Pitta
 Animalia,Chordata,Aves,Passeriformes,Pittidae,Hydrornis,schwaneri,Bornean Banded-Pitta,Hydrornis schwaneri,TRUE,Hydrornis schwaneri_Bornean Banded-Pitta
@@ -2921,10 +2921,10 @@ Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,mesomelas,Yellow-tailed O
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,nigrogularis,Yellow Oriole,Icterus nigrogularis,TRUE,Icterus nigrogularis_Yellow Oriole
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,parisorum,Scott's Oriole,Icterus parisorum,TRUE,Icterus parisorum_Scott's Oriole
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,pectoralis,Spot-breasted Oriole,Icterus pectoralis,TRUE,Icterus pectoralis_Spot-breasted Oriole
-Animalia,CHORDATA,Aves,Passeriformes,Icteridae,Icterus,portoricensis,Puerto Rican Oriole,Icterus portoricensis,TRUE,Icterus portoricensis_Puerto Rican Oriole
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,portoricensis,Puerto Rican Oriole,Icterus portoricensis,TRUE,Icterus portoricensis_Puerto Rican Oriole
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,prosthemelas,Black-cowled Oriole,Icterus prosthemelas,TRUE,Icterus prosthemelas_Black-cowled Oriole
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,pustulatus,Streak-backed Oriole,Icterus pustulatus,TRUE,Icterus pustulatus_Streak-backed Oriole
-Animalia,CHORDATA,Aves,Passeriformes,Icteridae,Icterus,pyrrhopterus,Variable Oriole,Icterus pyrrhopterus,TRUE,Icterus pyrrhopterus_Variable Oriole
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,pyrrhopterus,Variable Oriole,Icterus pyrrhopterus,TRUE,Icterus pyrrhopterus_Variable Oriole
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,spurius,Orchard Oriole,Icterus spurius,TRUE,Icterus spurius_Orchard Oriole
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Icterus,wagleri,Black-vented Oriole,Icterus wagleri,TRUE,Icterus wagleri_Black-vented Oriole
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinaetus,malaiensis,Black Eagle,Ictinaetus malaiensis,TRUE,Ictinaetus malaiensis_Black Eagle
@@ -3018,11 +3018,11 @@ Animalia,Chordata,Aves,Galliformes,Phasianidae,Lagopus,lagopus,Willow Ptarmigan,
 Animalia,Chordata,Aves,Galliformes,Phasianidae,Lagopus,leucura,White-tailed Ptarmigan,Lagopus leucura,TRUE,Lagopus leucura_White-tailed Ptarmigan
 Animalia,Chordata,Aves,Galliformes,Phasianidae,Lagopus,muta,Rock Ptarmigan,Lagopus muta,TRUE,Lagopus muta_Rock Ptarmigan
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,aurea,Rufous-bellied Triller,Lalage aurea,TRUE,Lalage aurea_Rufous-bellied Triller
-Animalia,CHORDATA,Aves,Passeriformes,Campephagidae,Lalage,fimbriata,Lesser Cuckooshrike,Lalage fimbriata,TRUE,Lalage fimbriata_Lesser Cuckooshrike
+Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,fimbriata,Lesser Cuckooshrike,Lalage fimbriata,TRUE,Lalage fimbriata_Lesser Cuckooshrike
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,leucomela,Varied Triller,Lalage leucomela,TRUE,Lalage leucomela_Varied Triller
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,leucopyga,Long-tailed Triller,Lalage leucopyga,TRUE,Lalage leucopyga_Long-tailed Triller
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,maculosa,Polynesian Triller,Lalage maculosa,TRUE,Lalage maculosa_Polynesian Triller
-Animalia,CHORDATA,Aves,Passeriformes,Campephagidae,Lalage,melanoptera,Black-headed Cuckooshrike,Lalage melanoptera,TRUE,Lalage melanoptera_Black-headed Cuckooshrike
+Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,melanoptera,Black-headed Cuckooshrike,Lalage melanoptera,TRUE,Lalage melanoptera_Black-headed Cuckooshrike
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,melaschistos,Black-winged Cuckooshrike,Lalage melaschistos,TRUE,Lalage melaschistos_Black-winged Cuckooshrike
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,nigra,Pied Triller,Lalage nigra,TRUE,Lalage nigra_Pied Triller
 Animalia,Chordata,Aves,Passeriformes,Campephagidae,Lalage,tricolor,White-winged Triller,Lalage tricolor,TRUE,Lalage tricolor_White-winged Triller
@@ -3071,7 +3071,7 @@ Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,cabanisi,Long-tailed Fiscal
 Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,collaris,Southern Fiscal,Lanius collaris,TRUE,Lanius collaris_Southern Fiscal
 Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,collurio,Red-backed Shrike,Lanius collurio,TRUE,Lanius collurio_Red-backed Shrike
 Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,collurioides,Burmese Shrike,Lanius collurioides,TRUE,Lanius collurioides_Burmese Shrike
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LANIIDAE,Lanius,corvinus,Yellow-billed Shrike,Lanius corvinus,FALSE,Lanius corvinus_Yellow-billed Shrike
+Animalia,Chordata,Aves,Passeriformes,LANIIDAE,Lanius,corvinus,Yellow-billed Shrike,Lanius corvinus,TRUE,Lanius corvinus_Yellow-billed Shrike
 Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,cristatus,Brown Shrike,Lanius cristatus,TRUE,Lanius cristatus_Brown Shrike
 Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,excubitor,Great Gray Shrike,Lanius excubitor,TRUE,Lanius excubitor_Great Gray Shrike
 Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,humeralis,Northern Fiscal,Lanius humeralis,TRUE,Lanius humeralis_Northern Fiscal
@@ -3135,7 +3135,7 @@ Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,ruficapilla,Nashville
 Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,virginiae,Virginia's Warbler,Leiothlypis virginiae,TRUE,Leiothlypis virginiae_Virginia's Warbler
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Leiothrix,argentauris,Silver-eared Mesia,Leiothrix argentauris,TRUE,Leiothrix argentauris_Silver-eared Mesia
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Leiothrix,lutea,Red-billed Leiothrix,Leiothrix lutea,TRUE,Leiothrix lutea_Red-billed Leiothrix
-Animalia,CHORDATA,Aves,Passeriformes,Icteridae,Leistes,bellicosus,Peruvian Meadowlark,Leistes bellicosus,TRUE,Leistes bellicosus_Peruvian Meadowlark
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,bellicosus,Peruvian Meadowlark,Leistes bellicosus,TRUE,Leistes bellicosus_Peruvian Meadowlark
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,loyca,Long-tailed Meadowlark,Leistes loyca,TRUE,Leistes loyca_Long-tailed Meadowlark
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,militaris,Red-breasted Meadowlark,Leistes militaris,TRUE,Leistes militaris_Red-breasted Meadowlark
 Animalia,Chordata,Aves,Passeriformes,Icteridae,Leistes,superciliaris,White-browed Meadowlark,Leistes superciliaris,TRUE,Leistes superciliaris_White-browed Meadowlark
@@ -3233,7 +3233,7 @@ Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Liocichla,ripponi,Scarlet-fa
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Liocichla,steerii,Steere's Liocichla,Liocichla steerii,TRUE,Liocichla steerii_Steere's Liocichla
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,Lioparus,chrysotis,Golden-breasted Fulvetta,Lioparus chrysotis,TRUE,Lioparus chrysotis_Golden-breasted Fulvetta
 Animalia,Chordata,Aves,Passeriformes,Rhinocryptidae,Liosceles,thoracicus,Rusty-belted Tapaculo,Liosceles thoracicus,TRUE,Liosceles thoracicus_Rusty-belted Tapaculo
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,COTINGIDAE,Lipaugus,ater,Black-and-gold Cotinga,Lipaugus ater,TRUE,Lipaugus ater_Black-and-gold Cotinga
+Animalia,Chordata,Aves,Passeriformes,COTINGIDAE,Lipaugus,ater,Black-and-gold Cotinga,Lipaugus ater,TRUE,Lipaugus ater_Black-and-gold Cotinga
 Animalia,Chordata,Aves,Passeriformes,Cotingidae,Lipaugus,fuscocinereus,Dusky Piha,Lipaugus fuscocinereus,TRUE,Lipaugus fuscocinereus_Dusky Piha
 Animalia,Chordata,Aves,Passeriformes,Cotingidae,Lipaugus,lanioides,Cinnamon-vented Piha,Lipaugus lanioides,TRUE,Lipaugus lanioides_Cinnamon-vented Piha
 Animalia,Chordata,Aves,Passeriformes,Cotingidae,Lipaugus,unirufus,Rufous Piha,Lipaugus unirufus,TRUE,Lipaugus unirufus_Rufous Piha
@@ -3369,7 +3369,7 @@ Animalia,Chordata,Aves,Anseriformes,Anatidae,Malacorhynchus,membranaceus,Pink-ea
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Malcorus,pectoralis,Rufous-eared Warbler,Malcorus pectoralis,TRUE,Malcorus pectoralis_Rufous-eared Warbler
 Animalia,Chordata,Aves,Passeriformes,Pycnonotidae,Malia,grata,Malia,Malia grata,TRUE,Malia grata_Malia
 Animalia,Chordata,Aves,Passeriformes,Ploceidae,Malimbus,nitens,Blue-billed Malimbe,Malimbus nitens,TRUE,Malimbus nitens_Blue-billed Malimbe
-Animalia,CHORDATA,Aves,Passeriformes,Campephagidae,Malindangia,mcgregori,McGregor's Cuckooshrike,Malindangia mcgregori,TRUE,Malindangia mcgregori_McGregor's Cuckooshrike
+Animalia,Chordata,Aves,Passeriformes,Campephagidae,Malindangia,mcgregori,McGregor's Cuckooshrike,Malindangia mcgregori,TRUE,Malindangia mcgregori_McGregor's Cuckooshrike
 Animalia,Chordata,Aves,Passeriformes,Maluridae,Malurus,alboscapulatus,White-shouldered Fairywren,Malurus alboscapulatus,TRUE,Malurus alboscapulatus_White-shouldered Fairywren
 Animalia,Chordata,Aves,Passeriformes,Maluridae,Malurus,amabilis,Lovely Fairywren,Malurus amabilis,TRUE,Malurus amabilis_Lovely Fairywren
 Animalia,Chordata,Aves,Passeriformes,Maluridae,Malurus,assimilis,Purple-backed Fairywren,Malurus assimilis,TRUE,Malurus assimilis_Purple-backed Fairywren
@@ -3624,7 +3624,7 @@ Animalia,Chordata,Aves,Galliformes,Cracidae,Mitu,tuberosum,Razor-billed Curassow
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Mixornis,bornensis,Bold-striped Tit-Babbler,Mixornis bornensis,TRUE,Mixornis bornensis_Bold-striped Tit-Babbler
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Mixornis,flavicollis,Gray-cheeked Tit-Babbler,Mixornis flavicollis,TRUE,Mixornis flavicollis_Gray-cheeked Tit-Babbler
 Animalia,Chordata,Aves,Passeriformes,Timaliidae,Mixornis,gularis,Pin-striped Tit-Babbler,Mixornis gularis,TRUE,Mixornis gularis_Pin-striped Tit-Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Timaliidae,Mixornis,kelleyi,Gray-faced Tit-Babbler,Mixornis kelleyi,TRUE,Mixornis kelleyi_Gray-faced Tit-Babbler
+Animalia,Chordata,Aves,Passeriformes,Timaliidae,Mixornis,kelleyi,Gray-faced Tit-Babbler,Mixornis kelleyi,TRUE,Mixornis kelleyi_Gray-faced Tit-Babbler
 Animalia,Chordata,Aves,Passeriformes,Parulidae,Mniotilta,varia,Black-and-white Warbler,Mniotilta varia,TRUE,Mniotilta varia_Black-and-white Warbler
 Animalia,Chordata,Aves,Passeriformes,Arcanatoridae,Modulatrix,stictigula,Spot-throat,Modulatrix stictigula,TRUE,Modulatrix stictigula_Spot-throat
 Animalia,Chordata,Aves,Passeriformes,Acanthizidae,Mohoua,albicilla,Whitehead,Mohoua albicilla,TRUE,Mohoua albicilla_Whitehead
@@ -3772,7 +3772,7 @@ Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiotheretes,fumigatus,Smoky Bus
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiotheretes,fuscorufus,Rufous-bellied Bush-Tyrant,Myiotheretes fuscorufus,TRUE,Myiotheretes fuscorufus_Rufous-bellied Bush-Tyrant
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiotheretes,pernix,Santa Marta Bush-Tyrant,Myiotheretes pernix,TRUE,Myiotheretes pernix_Santa Marta Bush-Tyrant
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiotheretes,striaticollis,Streak-throated Bush-Tyrant,Myiotheretes striaticollis,TRUE,Myiotheretes striaticollis_Streak-throated Bush-Tyrant
-Animalia,CHORDATA,Aves,Passeriformes,Parulidae,Myiothlypis,basilica,Santa Marta Warbler,Myiothlypis basilica,TRUE,Myiothlypis basilica_Santa Marta Warbler
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,basilica,Santa Marta Warbler,Myiothlypis basilica,TRUE,Myiothlypis basilica_Santa Marta Warbler
 Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,bivittata,Two-banded Warbler,Myiothlypis bivittata,TRUE,Myiothlypis bivittata_Two-banded Warbler
 Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,chrysogaster,Golden-bellied Warbler,Myiothlypis chrysogaster,TRUE,Myiothlypis chrysogaster_Golden-bellied Warbler
 Animalia,Chordata,Aves,Passeriformes,Parulidae,Myiothlypis,cinereicollis,Gray-throated Warbler,Myiothlypis cinereicollis,TRUE,Myiothlypis cinereicollis_Gray-throated Warbler
@@ -3801,7 +3801,7 @@ Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmeciza,longipes,White-bel
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Myrmecocichla,aethiops,Northern Anteater-Chat,Myrmecocichla aethiops,TRUE,Myrmecocichla aethiops_Northern Anteater-Chat
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Myrmecocichla,arnotti,Arnot's Chat,Myrmecocichla arnotti,TRUE,Myrmecocichla arnotti_Arnot's Chat
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Myrmecocichla,formicivora,Southern Anteater-Chat,Myrmecocichla formicivora,TRUE,Myrmecocichla formicivora_Southern Anteater-Chat
-Animalia,CHORDATA,Aves,Passeriformes,Muscicapidae,Myrmecocichla,monticola,Mountain Wheatear,Myrmecocichla monticola,TRUE,Myrmecocichla monticola_Mountain Wheatear
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Myrmecocichla,monticola,Mountain Wheatear,Myrmecocichla monticola,TRUE,Myrmecocichla monticola_Mountain Wheatear
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Myrmecocichla,nigra,Sooty Chat,Myrmecocichla nigra,TRUE,Myrmecocichla nigra_Sooty Chat
 Metazoa,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmelastes,humaythae,Humaita Antbird,Myrmelastes humaythae,TRUE,Myrmelastes humaythae_Humaita Antbird
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmelastes,hyperythrus,Plumbeous Antbird,Myrmelastes hyperythrus,TRUE,Myrmelastes hyperythrus_Plumbeous Antbird
@@ -3821,10 +3821,10 @@ Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmoderus,squamosus,Squamat
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmophylax,atrothorax,Black-throated Antbird,Myrmophylax atrothorax,TRUE,Myrmophylax atrothorax_Black-throated Antbird
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmorchilus,strigilatus,Stripe-backed Antbird,Myrmorchilus strigilatus,TRUE,Myrmorchilus strigilatus_Stripe-backed Antbird
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmornis,torquata,Wing-banded Antbird,Myrmornis torquata,TRUE,Myrmornis torquata_Wing-banded Antbird
-Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,berlepschi,Amazonian Antpitta,Myrmothera berlepschi,FALSE,Myrmothera berlepschi_Amazonian Antpitta
+Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,berlepschi,Amazonian Antpitta,Myrmothera berlepschi,TRUE,Myrmothera berlepschi_Amazonian Antpitta
 Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,campanisona,Thrush-like Antpitta,Myrmothera campanisona,TRUE,Myrmothera campanisona_Thrush-like Antpitta
 Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,dives,Thicket Antpitta,Myrmothera dives,TRUE,Myrmothera dives_Thicket Antpitta
-Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,fulviventris,White-lored Antpitta,Myrmothera fulviventris,FALSE,Myrmothera fulviventris_White-lored Antpitta
+Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,fulviventris,White-lored Antpitta,Myrmothera fulviventris,TRUE,Myrmothera fulviventris_White-lored Antpitta
 Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,simplex,Tepui Antpitta,Myrmothera simplex,TRUE,Myrmothera simplex_Tepui Antpitta
 Animalia,Chordata,Aves,Passeriformes,Grallariidae,Myrmothera,subcanescens,Tapajos Antpitta,Myrmothera subcanescens,TRUE,Myrmothera subcanescens_Tapajos Antpitta
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Myrmotherula,ambigua,Yellow-throated Antwren,Myrmotherula ambigua,TRUE,Myrmotherula ambigua_Yellow-throated Antwren
@@ -3858,9 +3858,9 @@ Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Myzomela,sanguinolenta,Scarlet
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Nannopsittaca,panychlora,Tepui Parrotlet,Nannopsittaca panychlora,TRUE,Nannopsittaca panychlora_Tepui Parrotlet
 Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Nannopterum,auritum,Double-crested Cormorant,Nannopterum auritum,TRUE,Nannopterum auritum_Double-crested Cormorant
 Animalia,NA,Aves,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum,Neotropic Cormorant,Nannopterum brasilianum,TRUE,Nannopterum brasilianum_Neotropic Cormorant
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Napothera,danjoui,Short-tailed Scimitar-Babbler,Napothera danjoui,TRUE,Napothera danjoui_Short-tailed Scimitar-Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Napothera,danjoui,Short-tailed Scimitar-Babbler,Napothera danjoui,TRUE,Napothera danjoui_Short-tailed Scimitar-Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Napothera,epilepidota,Eyebrowed Wren-Babbler,Napothera epilepidota,TRUE,Napothera epilepidota_Eyebrowed Wren-Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Napothera,malacoptila,Long-billed Wren-Babbler,Napothera malacoptila,TRUE,Napothera malacoptila_Long-billed Wren-Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Napothera,malacoptila,Long-billed Wren-Babbler,Napothera malacoptila,TRUE,Napothera malacoptila_Long-billed Wren-Babbler
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Nasica,longirostris,Long-billed Woodcreeper,Nasica longirostris,TRUE,Nasica longirostris_Long-billed Woodcreeper
 Animalia,Chordata,Aves,Passeriformes,Nectariniidae,Nectarinia,famosa,Malachite Sunbird,Nectarinia famosa,TRUE,Nectarinia famosa_Malachite Sunbird
 Animalia,Chordata,Aves,Passeriformes,Nectariniidae,Nectarinia,kilimensis,Bronze Sunbird,Nectarinia kilimensis,TRUE,Nectarinia kilimensis_Bronze Sunbird
@@ -3890,7 +3890,7 @@ Animalia,Chordata,Aves,Passeriformes,Pipridae,Neopelma,sulphureiventer,Sulphur-b
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Neophema,pulchella,Turquoise Parrot,Neophema pulchella,TRUE,Neophema pulchella_Turquoise Parrot
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Neopipo,cinnamomea,Cinnamon Manakin-Tyrant,Neopipo cinnamomea,TRUE,Neopipo cinnamomea_Cinnamon Manakin-Tyrant
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Neothraupis,fasciata,White-banded Tanager,Neothraupis fasciata,TRUE,Neothraupis fasciata_White-banded Tanager
-Animalia,CHORDATA,Aves,Passeriformes,Tyrannidae,Nephelomyias,lintoni,Orange-banded Flycatcher,Nephelomyias lintoni,TRUE,Nephelomyias lintoni_Orange-banded Flycatcher
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nephelomyias,lintoni,Orange-banded Flycatcher,Nephelomyias lintoni,TRUE,Nephelomyias lintoni_Orange-banded Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Nephelomyias,pulcher,Handsome Flycatcher,Nephelomyias pulcher,TRUE,Nephelomyias pulcher_Handsome Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,Nesillas,lantzii,Subdesert Brush-Warbler,Nesillas lantzii,TRUE,Nesillas lantzii_Subdesert Brush-Warbler
 Animalia,Chordata,Aves,Passeriformes,Acrocephalidae,Nesillas,typica,Malagasy Brush-Warbler,Nesillas typica,TRUE,Nesillas typica_Malagasy Brush-Warbler
@@ -3926,7 +3926,7 @@ Animalia,Chordata,Aves,Strigiformes,Strigidae,Ninox,theomacha,Papuan Boobook,Nin
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Nisaetus,cirrhatus,Changeable Hawk-Eagle,Nisaetus cirrhatus,TRUE,Nisaetus cirrhatus_Changeable Hawk-Eagle
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Nisaetus,nanus,Wallace's Hawk-Eagle,Nisaetus nanus,TRUE,Nisaetus nanus_Wallace's Hawk-Eagle
 Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Nisaetus,nipalensis,Mountain Hawk-Eagle,Nisaetus nipalensis,TRUE,Nisaetus nipalensis_Mountain Hawk-Eagle
-NA,NA,NA,NA,NA,NA,NA,Noise,Noise,FALSE,Noise_Noise
+NA,NA,NA,NA,NA,NA,NA,Noise,Noise,NA,Noise_Noise
 Animalia,Chordata,Aves,Galbuliformes,Bucconidae,Nonnula,brunnea,Brown Nunlet,Nonnula brunnea,TRUE,Nonnula brunnea_Brown Nunlet
 Animalia,Chordata,Aves,Piciformes,Bucconidae,Nonnula,frontalis,Gray-cheeked Nunlet,Nonnula frontalis,TRUE,Nonnula frontalis_Gray-cheeked Nunlet
 Animalia,Chordata,Aves,Piciformes,Bucconidae,Nonnula,rubecula,Rusty-breasted Nunlet,Nonnula rubecula,TRUE,Nonnula rubecula_Rusty-breasted Nunlet
@@ -4044,7 +4044,7 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Oenanthe,scotocerca,Brown-tail
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Ognorhynchus,icterotis,Yellow-eared Parrot,Ognorhynchus icterotis,TRUE,Ognorhynchus icterotis_Yellow-eared Parrot
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Oncostoma,cinereigulare,Northern Bentbill,Oncostoma cinereigulare,TRUE,Oncostoma cinereigulare_Northern Bentbill
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Oncostoma,olivaceum,Southern Bentbill,Oncostoma olivaceum,TRUE,Oncostoma olivaceum_Southern Bentbill
-ANIMALIA,CHORDATA,Aves,Passeriformes,Thamnophilidae,Oneillornis,lunulatus,Lunulated Antbird,Oneillornis lunulatus,TRUE,Oneillornis lunulatus_Lunulated Antbird
+Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Oneillornis,lunulatus,Lunulated Antbird,Oneillornis lunulatus,TRUE,Oneillornis lunulatus_Lunulated Antbird
 Metazoa,Chordata,Aves,Passeriformes,Thamnophilidae,Oneillornis,salvini,White-throated Antbird,Oneillornis salvini,TRUE,Oneillornis salvini_White-throated Antbird
 Animalia,Chordata,Aves,Passeriformes,Sturnidae,Onychognathus,morio,Red-winged Starling,Onychognathus morio,TRUE,Onychognathus morio_Red-winged Starling
 Animalia,Chordata,Aves,Passeriformes,Sturnidae,Onychognathus,nabouroup,Pale-winged Starling,Onychognathus nabouroup,TRUE,Onychognathus nabouroup_Pale-winged Starling
@@ -4139,7 +4139,7 @@ Animalia,Chordata,Aves,Galliformes,Phasianidae,Ortygornis,pondicerianus,Gray Fra
 Animalia,Chordata,Aves,Galliformes,Phasianidae,Ortygornis,sephaena,Crested Francolin,Ortygornis sephaena,TRUE,Ortygornis sephaena_Crested Francolin
 Animalia,Chordata,Aves,Passeriformes,Estrildidae,Ortygospiza,atricollis,Quailfinch,Ortygospiza atricollis,TRUE,Ortygospiza atricollis_Quailfinch
 Animalia,Chordata,Aves,Columbiformes,Columbidae,Otidiphaps,nobilis,Pheasant Pigeon,Otidiphaps nobilis,TRUE,Otidiphaps nobilis_Pheasant Pigeon
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,TURDIDAE,Otocichla,mupinensis,Chinese Thrush,Otocichla mupinensis,TRUE,Otocichla mupinensis_Chinese Thrush
+Animalia,Chordata,Aves,Passeriformes,TURDIDAE,Otocichla,mupinensis,Chinese Thrush,Otocichla mupinensis,TRUE,Otocichla mupinensis_Chinese Thrush
 Animalia,Chordata,Aves,Strigiformes,Strigidae,Otus,bakkamoena,Indian Scops-Owl,Otus bakkamoena,TRUE,Otus bakkamoena_Indian Scops-Owl
 Animalia,Chordata,Aves,Strigiformes,Strigidae,Otus,cyprius,Cyprus Scops-Owl,Otus cyprius,TRUE,Otus cyprius_Cyprus Scops-Owl
 Animalia,Chordata,Aves,Strigiformes,Strigidae,Otus,elegans,Ryukyu Scops-Owl,Otus elegans,TRUE,Otus elegans_Ryukyu Scops-Owl
@@ -4289,14 +4289,14 @@ Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,conspicillatus,Austr
 Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,erythrorhynchos,American White Pelican,Pelecanus erythrorhynchos,TRUE,Pelecanus erythrorhynchos_American White Pelican
 Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,Brown Pelican,Pelecanus occidentalis,TRUE,Pelecanus occidentalis_Brown Pelican
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,albiventre,Spot-throated Babbler,Pellorneum albiventre,TRUE,Pellorneum albiventre_Spot-throated Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Pellorneum,bicolor,Ferruginous Babbler,Pellorneum bicolor,TRUE,Pellorneum bicolor_Ferruginous Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,bicolor,Ferruginous Babbler,Pellorneum bicolor,TRUE,Pellorneum bicolor_Ferruginous Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,capistratum,Black-capped Babbler,Pellorneum capistratum,TRUE,Pellorneum capistratum_Black-capped Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Pellorneum,celebense,Sulawesi Babbler,Pellorneum celebense,TRUE,Pellorneum celebense_Sulawesi Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,celebense,Sulawesi Babbler,Pellorneum celebense,TRUE,Pellorneum celebense_Sulawesi Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,fuscocapillus,Brown-capped Babbler,Pellorneum fuscocapillus,TRUE,Pellorneum fuscocapillus_Brown-capped Babbler
 Metazoa,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,malaccense,Short-tailed Babbler,Pellorneum malaccense,TRUE,Pellorneum malaccense_Short-tailed Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,palustre,Marsh Babbler,Pellorneum palustre,TRUE,Pellorneum palustre_Marsh Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,pyrrogenys,Temminck's Babbler,Pellorneum pyrrogenys,TRUE,Pellorneum pyrrogenys_Temminck's Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Pellorneum,rostratum,White-chested Babbler,Pellorneum rostratum,TRUE,Pellorneum rostratum_White-chested Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,rostratum,White-chested Babbler,Pellorneum rostratum,TRUE,Pellorneum rostratum_White-chested Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,ruficeps,Puff-throated Babbler,Pellorneum ruficeps,TRUE,Pellorneum ruficeps_Puff-throated Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Pellorneum,tickelli,Buff-breasted Babbler,Pellorneum tickelli,TRUE,Pellorneum tickelli_Buff-breasted Babbler
 Animalia,Chordata,Aves,Passeriformes,Artamidae,Peltops,montanus,Mountain Peltops,Peltops montanus,TRUE,Peltops montanus_Mountain Peltops
@@ -4377,8 +4377,8 @@ Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,rufifrons,Rufous-
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,sibilatrix,Little Thornbird,Phacellodomus sibilatrix,TRUE,Phacellodomus sibilatrix_Little Thornbird
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,striaticeps,Streak-fronted Thornbird,Phacellodomus striaticeps,TRUE,Phacellodomus striaticeps_Streak-fronted Thornbird
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Phacellodomus,striaticollis,Freckle-breasted Thornbird,Phacellodomus striaticollis,TRUE,Phacellodomus striaticollis_Freckle-breasted Thornbird
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Phaenicophaeus,sumatranus,Chestnut-bellied Malkoha,Phaenicophaeus sumatranus,TRUE,Phaenicophaeus sumatranus_Chestnut-bellied Malkoha
-Animalia,CHORDATA,Aves,Cuculiformes,Cuculidae,Phaenicophaeus,tristis,Green-billed Malkoha,Phaenicophaeus tristis,TRUE,Phaenicophaeus tristis_Green-billed Malkoha
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Phaenicophaeus,sumatranus,Chestnut-bellied Malkoha,Phaenicophaeus sumatranus,TRUE,Phaenicophaeus sumatranus_Chestnut-bellied Malkoha
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Phaenicophaeus,tristis,Green-billed Malkoha,Phaenicophaeus tristis,TRUE,Phaenicophaeus tristis_Green-billed Malkoha
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Phaenicophaeus,viridirostris,Blue-faced Malkoha,Phaenicophaeus viridirostris,TRUE,Phaenicophaeus viridirostris_Blue-faced Malkoha
 Animalia,Chordata,Aves,Passeriformes,Phaenicophilidae,Phaenicophilus,palmarum,Black-crowned Palm-Tanager,Phaenicophilus palmarum,TRUE,Phaenicophilus palmarum_Black-crowned Palm-Tanager
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Phaenostictus,mcleannani,Ocellated Antbird,Phaenostictus mcleannani,TRUE,Phaenostictus mcleannani_Ocellated Antbird
@@ -4483,7 +4483,7 @@ Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Phoenicurus,leucocephalus,Whit
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Phoenicurus,moussieri,Moussier's Redstart,Phoenicurus moussieri,TRUE,Phoenicurus moussieri_Moussier's Redstart
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Phoenicurus,ochruros,Black Redstart,Phoenicurus ochruros,TRUE,Phoenicurus ochruros_Black Redstart
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Phoenicurus,phoenicurus,Common Redstart,Phoenicurus phoenicurus,TRUE,Phoenicurus phoenicurus_Common Redstart
-Animalia,CHORDATA,Aves,Passeriformes,Sturnidae,Pholia,sharpii,Sharpe's Starling,Pholia sharpii,TRUE,Pholia sharpii_Sharpe's Starling
+Animalia,Chordata,Aves,Passeriformes,Sturnidae,Pholia,sharpii,Sharpe's Starling,Pholia sharpii,TRUE,Pholia sharpii_Sharpe's Starling
 Animalia,Chordata,Aves,Passeriformes,Paradisaeidae,Phonygammus,keraudrenii,Trumpet Manucode,Phonygammus keraudrenii,TRUE,Phonygammus keraudrenii_Trumpet Manucode
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Phragmacia,substriata,Namaqua Warbler,Phragmacia substriata,TRUE,Phragmacia substriata_Namaqua Warbler
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Phrygilus,atriceps,Black-hooded Sierra Finch,Phrygilus atriceps,TRUE,Phrygilus atriceps_Black-hooded Sierra Finch
@@ -4861,7 +4861,7 @@ Animalia,Chordata,Aves,Gruiformes,Rallidae,Porphyriops,melanops,Spot-flanked Gal
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Porzana,carolina,Sora,Porzana carolina,TRUE,Porzana carolina_Sora
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Porzana,porzana,Spotted Crake,Porzana porzana,TRUE,Porzana porzana_Spotted Crake
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Porzana,spiloptera,Dot-winged Crake,Porzana spiloptera,TRUE,Porzana spiloptera_Dot-winged Crake
-NA,NA,NA,NA,NA,NA,NA,Power tools,Power tools,FALSE,Power tools_Power tools
+NA,NA,NA,NA,NA,NA,NA,Power tools,Power tools,NA,Power tools_Power tools
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Premnoplex,brunnescens,Spotted Barbtail,Premnoplex brunnescens,TRUE,Premnoplex brunnescens_Spotted Barbtail
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Premnornis,guttuliger,Rusty-winged Barbtail,Premnornis guttuliger,TRUE,Premnornis guttuliger_Rusty-winged Barbtail
 Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Primolius,auricollis,Yellow-collared Macaw,Primolius auricollis,TRUE,Primolius auricollis_Yellow-collared Macaw
@@ -4883,7 +4883,7 @@ Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,lepida,Delicate Prinia,
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,maculosa,Karoo Prinia,Prinia maculosa,TRUE,Prinia maculosa_Karoo Prinia
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,polychroa,Brown Prinia,Prinia polychroa,TRUE,Prinia polychroa_Brown Prinia
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,rufescens,Rufescent Prinia,Prinia rufescens,TRUE,Prinia rufescens_Rufescent Prinia
-Animalia,CHORDATA,Aves,Passeriformes,Cisticolidae,Prinia,rufifrons,Red-fronted Prinia,Prinia rufifrons,TRUE,Prinia rufifrons_Red-fronted Prinia
+Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,rufifrons,Red-fronted Prinia,Prinia rufifrons,TRUE,Prinia rufifrons_Red-fronted Prinia
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,socialis,Ashy Prinia,Prinia socialis,TRUE,Prinia socialis_Ashy Prinia
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,striata,Striped Prinia,Prinia striata,TRUE,Prinia striata_Striped Prinia
 Animalia,Chordata,Aves,Passeriformes,Cisticolidae,Prinia,subflava,Tawny-flanked Prinia,Prinia subflava,TRUE,Prinia subflava_Tawny-flanked Prinia
@@ -5058,7 +5058,7 @@ Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Pterodroma,sandwichensis
 Animalia,Chordata,Aves,Piciformes,Ramphastidae,Pteroglossus,aracari,Black-necked Aracari,Pteroglossus aracari,TRUE,Pteroglossus aracari_Black-necked Aracari
 Animalia,Chordata,Aves,Piciformes,Ramphastidae,Pteroglossus,azara,Ivory-billed Aracari,Pteroglossus azara,TRUE,Pteroglossus azara_Ivory-billed Aracari
 Animalia,Chordata,Aves,Piciformes,Ramphastidae,Pteroglossus,bailloni,Saffron Toucanet,Pteroglossus bailloni,TRUE,Pteroglossus bailloni_Saffron Toucanet
-ANIMALIA,CHORDATA,AVES,PICIFORMES,RAMPHASTIDAE,Pteroglossus,beauharnaisii,Curl-crested Aracari,Pteroglossus beauharnaisii,TRUE,Pteroglossus beauharnaisii_Curl-crested Aracari
+Animalia,Chordata,Aves,Piciformes,RAMPHASTIDAE,Pteroglossus,beauharnaisii,Curl-crested Aracari,Pteroglossus beauharnaisii,TRUE,Pteroglossus beauharnaisii_Curl-crested Aracari
 Animalia,Chordata,Aves,Piciformes,Ramphastidae,Pteroglossus,bitorquatus,Red-necked Aracari,Pteroglossus bitorquatus,TRUE,Pteroglossus bitorquatus_Red-necked Aracari
 Animalia,Chordata,Aves,Piciformes,Ramphastidae,Pteroglossus,castanotis,Chestnut-eared Aracari,Pteroglossus castanotis,TRUE,Pteroglossus castanotis_Chestnut-eared Aracari
 Animalia,Chordata,Aves,Piciformes,Ramphastidae,Pteroglossus,frantzii,Fiery-billed Aracari,Pteroglossus frantzii,TRUE,Pteroglossus frantzii_Fiery-billed Aracari
@@ -5070,17 +5070,17 @@ Animalia,Chordata,Aves,Passeriformes,Rhinocryptidae,Pteroptochos,castaneus,Chest
 Animalia,Chordata,Aves,Passeriformes,Rhinocryptidae,Pteroptochos,megapodius,Moustached Turca,Pteroptochos megapodius,TRUE,Pteroptochos megapodius_Moustached Turca
 Animalia,Chordata,Aves,Passeriformes,Rhinocryptidae,Pteroptochos,tarnii,Black-throated Huet-huet,Pteroptochos tarnii,TRUE,Pteroptochos tarnii_Black-throated Huet-huet
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,albogularis,White-throated Laughingthrush,Pterorhinus albogularis,TRUE,Pterorhinus albogularis_White-throated Laughingthrush
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LEIOTRICHIDAE,Pterorhinus,berthemyi,Buffy Laughingthrush,Pterorhinus berthemyi,TRUE,Pterorhinus berthemyi_Buffy Laughingthrush
-Animalia,CHORDATA,Aves,Passeriformes,Leiothrichidae,Pterorhinus,chinensis,Black-throated Laughingthrush,Pterorhinus chinensis,TRUE,Pterorhinus chinensis_Black-throated Laughingthrush
-Animalia,CHORDATA,Aves,Passeriformes,Leiothrichidae,Pterorhinus,davidi,Pere David's Laughingthrush,Pterorhinus davidi,TRUE,Pterorhinus davidi_Pere David's Laughingthrush
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LEIOTRICHIDAE,Pterorhinus,delesserti,Wayanad Laughingthrush,Pterorhinus delesserti,TRUE,Pterorhinus delesserti_Wayanad Laughingthrush
-Animalia,CHORDATA,Aves,Passeriformes,Leiothrichidae,Pterorhinus,mitratus,Chestnut-capped Laughingthrush,Pterorhinus mitratus,TRUE,Pterorhinus mitratus_Chestnut-capped Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,LEIOTRICHIDAE,Pterorhinus,berthemyi,Buffy Laughingthrush,Pterorhinus berthemyi,TRUE,Pterorhinus berthemyi_Buffy Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,chinensis,Black-throated Laughingthrush,Pterorhinus chinensis,TRUE,Pterorhinus chinensis_Black-throated Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,davidi,Pere David's Laughingthrush,Pterorhinus davidi,TRUE,Pterorhinus davidi_Pere David's Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,LEIOTRICHIDAE,Pterorhinus,delesserti,Wayanad Laughingthrush,Pterorhinus delesserti,TRUE,Pterorhinus delesserti_Wayanad Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,mitratus,Chestnut-capped Laughingthrush,Pterorhinus mitratus,TRUE,Pterorhinus mitratus_Chestnut-capped Laughingthrush
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,pectoralis,Greater Necklaced Laughingthrush,Pterorhinus pectoralis,TRUE,Pterorhinus pectoralis_Greater Necklaced Laughingthrush
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,perspicillatus,Masked Laughingthrush,Pterorhinus perspicillatus,TRUE,Pterorhinus perspicillatus_Masked Laughingthrush
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,poecilorhynchus,Rusty Laughingthrush,Pterorhinus poecilorhynchus,TRUE,Pterorhinus poecilorhynchus_Rusty Laughingthrush
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LEIOTRICHIDAE,Pterorhinus,ruficollis,Rufous-necked Laughingthrush,Pterorhinus ruficollis,TRUE,Pterorhinus ruficollis_Rufous-necked Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,LEIOTRICHIDAE,Pterorhinus,ruficollis,Rufous-necked Laughingthrush,Pterorhinus ruficollis,TRUE,Pterorhinus ruficollis_Rufous-necked Laughingthrush
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,sannio,White-browed Laughingthrush,Pterorhinus sannio,TRUE,Pterorhinus sannio_White-browed Laughingthrush
-Animalia,CHORDATA,Aves,Passeriformes,Leiothrichidae,Pterorhinus,treacheri,Chestnut-hooded Laughingthrush,Pterorhinus treacheri,TRUE,Pterorhinus treacheri_Chestnut-hooded Laughingthrush
+Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Pterorhinus,treacheri,Chestnut-hooded Laughingthrush,Pterorhinus treacheri,TRUE,Pterorhinus treacheri_Chestnut-hooded Laughingthrush
 Animalia,Chordata,Aves,Passeriformes,Vireonidae,Pteruthius,aeralatus,Blyth's Shrike-Babbler,Pteruthius aeralatus,TRUE,Pteruthius aeralatus_Blyth's Shrike-Babbler
 Animalia,Chordata,Aves,Passeriformes,Vireonidae,Pteruthius,intermedius,Clicking Shrike-Babbler,Pteruthius intermedius,TRUE,Pteruthius intermedius_Clicking Shrike-Babbler
 Animalia,Chordata,Aves,Passeriformes,Vireonidae,Pteruthius,melanotis,Black-eared Shrike-Babbler,Pteruthius melanotis,TRUE,Pteruthius melanotis_Black-eared Shrike-Babbler
@@ -5098,7 +5098,7 @@ Animalia,Chordata,Aves,Columbiformes,Columbidae,Ptilinopus,rivoli,White-breasted
 Animalia,Chordata,Aves,Columbiformes,Columbidae,Ptilinopus,solomonensis,Yellow-bibbed Fruit-Dove,Ptilinopus solomonensis,TRUE,Ptilinopus solomonensis_Yellow-bibbed Fruit-Dove
 Animalia,Chordata,Aves,Columbiformes,Columbidae,Ptilinopus,superbus,Superb Fruit-Dove,Ptilinopus superbus,TRUE,Ptilinopus superbus_Superb Fruit-Dove
 Animalia,Chordata,Aves,Columbiformes,Columbidae,Ptilinopus,viridis,Claret-breasted Fruit-Dove,Ptilinopus viridis,TRUE,Ptilinopus viridis_Claret-breasted Fruit-Dove
-Animalia,CHORDATA,Aves,Passeriformes,Ptiliogonatidae,Ptiliogonys,caudatus,Long-tailed Silky-flycatcher,Ptiliogonys caudatus,TRUE,Ptiliogonys caudatus_Long-tailed Silky-flycatcher
+Animalia,Chordata,Aves,Passeriformes,Ptiliogonatidae,Ptiliogonys,caudatus,Long-tailed Silky-flycatcher,Ptiliogonys caudatus,TRUE,Ptiliogonys caudatus_Long-tailed Silky-flycatcher
 Animalia,Chordata,Aves,Passeriformes,Ptiliogonatidae,Ptiliogonys,cinereus,Gray Silky-flycatcher,Ptiliogonys cinereus,TRUE,Ptiliogonys cinereus_Gray Silky-flycatcher
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Ptilocichla,falcata,Falcated Wren-Babbler,Ptilocichla falcata,TRUE,Ptilocichla falcata_Falcated Wren-Babbler
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Ptilocichla,leucogrammica,Bornean Wren-Babbler,Ptilocichla leucogrammica,TRUE,Ptilocichla leucogrammica_Bornean Wren-Babbler
@@ -5118,7 +5118,7 @@ Animalia,Chordata,Aves,Passeriformes,Corvidae,Ptilostomus,afer,Piapiac,Ptilostom
 Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Ptilotula,fusca,Fuscous Honeyeater,Ptilotula fusca,TRUE,Ptilotula fusca_Fuscous Honeyeater
 Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Ptilotula,ornata,Yellow-plumed Honeyeater,Ptilotula ornata,TRUE,Ptilotula ornata_Yellow-plumed Honeyeater
 Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Ptilotula,penicillata,White-plumed Honeyeater,Ptilotula penicillata,TRUE,Ptilotula penicillata_White-plumed Honeyeater
-ANIMALIA,CHORDATA,Aves,Passeriformes,Icteridae,Ptiloxena,atroviolacea,Cuban Blackbird,Ptiloxena atroviolacea,TRUE,Ptiloxena atroviolacea_Cuban Blackbird
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Ptiloxena,atroviolacea,Cuban Blackbird,Ptiloxena atroviolacea,TRUE,Ptiloxena atroviolacea_Cuban Blackbird
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Ptyonoprogne,concolor,Dusky Crag-Martin,Ptyonoprogne concolor,TRUE,Ptyonoprogne concolor_Dusky Crag-Martin
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Ptyonoprogne,fuligula,Rock Martin,Ptyonoprogne fuligula,TRUE,Ptyonoprogne fuligula_Rock Martin
 Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Ptyonoprogne,rupestris,Eurasian Crag-Martin,Ptyonoprogne rupestris,TRUE,Ptyonoprogne rupestris_Eurasian Crag-Martin
@@ -5303,7 +5303,7 @@ Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Rhopias,gularis,Star-throate
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,Rhopophilus,pekinensis,Beijing Babbler,Rhopophilus pekinensis,TRUE,Rhopophilus pekinensis_Beijing Babbler
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Rhopornis,ardesiacus,Slender Antbird,Rhopornis ardesiacus,TRUE,Rhopornis ardesiacus_Slender Antbird
 Animalia,NA,Aves,NA,Thraupidae,Rhopospina,alaudina,Band-tailed Sierra Finch,Rhopospina alaudina,TRUE,Rhopospina alaudina_Band-tailed Sierra Finch
-Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina,caerulescens,Blue Finch,Rhopospina caerulescens,FALSE,Rhopospina caerulescens_Blue Finch
+Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina,caerulescens,Blue Finch,Rhopospina caerulescens,TRUE,Rhopospina caerulescens_Blue Finch
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Rhopospina,fruticeti,Mourning Sierra Finch,Rhopospina fruticeti,TRUE,Rhopospina fruticeti_Mourning Sierra Finch
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Rhynchocyclus,brevirostris,Eye-ringed Flatbill,Rhynchocyclus brevirostris,TRUE,Rhynchocyclus brevirostris_Eye-ringed Flatbill
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Rhynchocyclus,olivaceus,Olivaceous Flatbill,Rhynchocyclus olivaceus,TRUE,Rhynchocyclus olivaceus_Olivaceous Flatbill
@@ -5372,7 +5372,7 @@ Animalia,Chordata,Aves,Piciformes,Picidae,Sasia,ochracea,White-browed Piculet,Sa
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Saucerottia,beryllina,Berylline Hummingbird,Saucerottia beryllina,TRUE,Saucerottia beryllina_Berylline Hummingbird
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Saucerottia,cyanocephala,Azure-crowned Hummingbird,Saucerottia cyanocephala,TRUE,Saucerottia cyanocephala_Azure-crowned Hummingbird
 Animalia,Chordata,Aves,Apodiformes,Trochilidae,Saucerottia,tobaci,Copper-rumped Hummingbird,Saucerottia tobaci,TRUE,Saucerottia tobaci_Copper-rumped Hummingbird
-Animalia,CHORDATA,Aves,CHARADRIIFORMES,Laridae,Saundersilarus,saundersi,Saunders's Gull,Saundersilarus saundersi,TRUE,Saundersilarus saundersi_Saunders's Gull
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Saundersilarus,saundersi,Saunders's Gull,Saundersilarus saundersi,TRUE,Saundersilarus saundersi_Saunders's Gull
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Saxicola,caprata,Pied Bushchat,Saxicola caprata,TRUE,Saxicola caprata_Pied Bushchat
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Saxicola,ferreus,Gray Bushchat,Saxicola ferreus,TRUE,Saxicola ferreus_Gray Bushchat
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Saxicola,maurus,Siberian Stonechat,Saxicola maurus,TRUE,Saxicola maurus_Siberian Stonechat
@@ -5399,12 +5399,12 @@ Animalia,Chordata,Aves,Apodiformes,Trochilidae,Schistes,geoffroyi,Geoffroy's Dag
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Schistochlamys,melanopis,Black-faced Tanager,Schistochlamys melanopis,TRUE,Schistochlamys melanopis_Black-faced Tanager
 Animalia,Chordata,Aves,Passeriformes,Thraupidae,Schistochlamys,ruficapillus,Cinnamon Tanager,Schistochlamys ruficapillus,TRUE,Schistochlamys ruficapillus_Cinnamon Tanager
 Animalia,Chordata,Aves,Passeriformes,Locustellidae,Schoenicola,platyurus,Broad-tailed Grassbird,Schoenicola platyurus,TRUE,Schoenicola platyurus_Broad-tailed Grassbird
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,LOCUSTELLIDAE,Schoenicola,striatus,Bristled Grassbird,Schoenicola striatus,TRUE,Schoenicola striatus_Bristled Grassbird
+Animalia,Chordata,Aves,Passeriformes,LOCUSTELLIDAE,Schoenicola,striatus,Bristled Grassbird,Schoenicola striatus,TRUE,Schoenicola striatus_Bristled Grassbird
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Schoeniophylax,phryganophilus,Chotoy Spinetail,Schoeniophylax phryganophilus,TRUE,Schoeniophylax phryganophilus_Chotoy Spinetail
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Schoeniparus,brunneus,Dusky Fulvetta,Schoeniparus brunneus,TRUE,Schoeniparus brunneus_Dusky Fulvetta
 Metazoa,Chordata,Aves,Passeriformes,Pellorneidae,Schoeniparus,castaneceps,Rufous-winged Fulvetta,Schoeniparus castaneceps,TRUE,Schoeniparus castaneceps_Rufous-winged Fulvetta
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Schoeniparus,cinereus,Yellow-throated Fulvetta,Schoeniparus cinereus,TRUE,Schoeniparus cinereus_Yellow-throated Fulvetta
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Schoeniparus,dubius,Rusty-capped Fulvetta,Schoeniparus dubius,TRUE,Schoeniparus dubius_Rusty-capped Fulvetta
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Schoeniparus,cinereus,Yellow-throated Fulvetta,Schoeniparus cinereus,TRUE,Schoeniparus cinereus_Yellow-throated Fulvetta
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Schoeniparus,dubius,Rusty-capped Fulvetta,Schoeniparus dubius,TRUE,Schoeniparus dubius_Rusty-capped Fulvetta
 Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Schoeniparus,rufogularis,Rufous-throated Fulvetta,Schoeniparus rufogularis,TRUE,Schoeniparus rufogularis_Rufous-throated Fulvetta
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Sciaphylax,castanea,Zimmer's Antbird,Sciaphylax castanea,TRUE,Sciaphylax castanea_Zimmer's Antbird
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Sciaphylax,hemimelaena,Chestnut-tailed Antbird,Sciaphylax hemimelaena,TRUE,Sciaphylax hemimelaena_Chestnut-tailed Antbird
@@ -5559,7 +5559,7 @@ Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Sipia,berlepschi,Stub-tailed
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Sipia,laemosticta,Dull-mantled Antbird,Sipia laemosticta,TRUE,Sipia laemosticta_Dull-mantled Antbird
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Sipia,nigricauda,Esmeraldas Antbird,Sipia nigricauda,TRUE,Sipia nigricauda_Esmeraldas Antbird
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Sipia,palliata,Magdalena Antbird,Sipia palliata,TRUE,Sipia palliata_Magdalena Antbird
-NA,NA,NA,NA,NA,NA,NA,Siren,Siren,FALSE,Siren_Siren
+NA,NA,NA,NA,NA,NA,NA,Siren,Siren,NA,Siren_Siren
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sirystes,albocinereus,White-rumped Sirystes,Sirystes albocinereus,TRUE,Sirystes albocinereus_White-rumped Sirystes
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sirystes,albogriseus,Choco Sirystes,Sirystes albogriseus,TRUE,Sirystes albogriseus_Choco Sirystes
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sirystes,sibilator,Sibilant Sirystes,Sirystes sibilator,TRUE,Sirystes sibilator_Sibilant Sirystes
@@ -5786,7 +5786,7 @@ Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,vulgaris,European Starlin
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus,arenarum,Northern Scrub-Flycatcher,Sublegatus arenarum,TRUE,Sublegatus arenarum_Northern Scrub-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus,modestus,Southern Scrub-Flycatcher,Sublegatus modestus,TRUE,Sublegatus modestus_Southern Scrub-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sublegatus,obscurior,Amazonian Scrub-Flycatcher,Sublegatus obscurior,TRUE,Sublegatus obscurior_Amazonian Scrub-Flycatcher
-Animalia,CHORDATA,Aves,Passeriformes,Meliphagidae,Sugomel,nigrum,Black Honeyeater,Sugomel nigrum,TRUE,Sugomel nigrum_Black Honeyeater
+Animalia,Chordata,Aves,Passeriformes,Meliphagidae,Sugomel,nigrum,Black Honeyeater,Sugomel nigrum,TRUE,Sugomel nigrum_Black Honeyeater
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Suiriri,suiriri,Suiriri Flycatcher,Suiriri suiriri,TRUE,Suiriri suiriri_Suiriri Flycatcher
 Animalia,Chordata,Aves,Suliformes,Sulidae,Sula,dactylatra,Masked Booby,Sula dactylatra,TRUE,Sula dactylatra_Masked Booby
 Animalia,Chordata,Aves,Suliformes,Sulidae,Sula,leucogaster,Brown Booby,Sula leucogaster,TRUE,Sula leucogaster_Brown Booby
@@ -5801,16 +5801,16 @@ Animalia,Chordata,Aves,Passeriformes,Sylviidae,Suthora,verreauxi,Golden Parrotbi
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Swynnertonia,swynnertoni,Swynnerton's Robin,Swynnertonia swynnertoni,TRUE,Swynnertonia swynnertoni_Swynnerton's Robin
 Metazoa,Chordata,Aves,Passeriformes,Sylviidae,Sylvia,abyssinica,African Hill Babbler,Sylvia abyssinica,TRUE,Sylvia abyssinica_African Hill Babbler
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,Sylvia,atricapilla,Eurasian Blackcap,Sylvia atricapilla,TRUE,Sylvia atricapilla_Eurasian Blackcap
-Animalia,CHORDATA,Aves,PASSERIFORMES,Sylviidae,Sylvia,atriceps,Rwenzori Hill Babbler,Sylvia atriceps,TRUE,Sylvia atriceps_Rwenzori Hill Babbler
+Animalia,Chordata,Aves,Passeriformes,Sylviidae,Sylvia,atriceps,Rwenzori Hill Babbler,Sylvia atriceps,TRUE,Sylvia atriceps_Rwenzori Hill Babbler
 Animalia,Chordata,Aves,Passeriformes,Sylviidae,Sylvia,borin,Garden Warbler,Sylvia borin,TRUE,Sylvia borin_Garden Warbler
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,SYLVIIDAE,Sylvia,nigricapillus,Bush Blackcap,Sylvia nigricapillus,TRUE,Sylvia nigricapillus_Bush Blackcap
+Animalia,Chordata,Aves,Passeriformes,SYLVIIDAE,Sylvia,nigricapillus,Bush Blackcap,Sylvia nigricapillus,TRUE,Sylvia nigricapillus_Bush Blackcap
 Animalia,Chordata,Aves,Passeriformes,Macrosphenidae,Sylvietta,brachyura,Northern Crombec,Sylvietta brachyura,TRUE,Sylvietta brachyura_Northern Crombec
 Animalia,Chordata,Aves,Passeriformes,Macrosphenidae,Sylvietta,rufescens,Cape Crombec,Sylvietta rufescens,TRUE,Sylvietta rufescens_Cape Crombec
 Animalia,Chordata,Aves,Passeriformes,Macrosphenidae,Sylvietta,ruficapilla,Red-capped Crombec,Sylvietta ruficapilla,TRUE,Sylvietta ruficapilla_Red-capped Crombec
 Animalia,Chordata,Aves,Passeriformes,Macrosphenidae,Sylvietta,virens,Green Crombec,Sylvietta virens,TRUE,Sylvietta virens_Green Crombec
 Animalia,Chordata,Aves,Passeriformes,Macrosphenidae,Sylvietta,whytii,Red-faced Crombec,Sylvietta whytii,TRUE,Sylvietta whytii_Red-faced Crombec
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Sylviorthorhynchus,desmursii,Des Murs's Wiretail,Sylviorthorhynchus desmursii,TRUE,Sylviorthorhynchus desmursii_Des Murs's Wiretail
-ANIMALIA,CHORDATA,AVES,PASSERIFORMES,FURNARIIDAE,Sylviorthorhynchus,yanacensis,Tawny Tit-Spinetail,Sylviorthorhynchus yanacensis,TRUE,Sylviorthorhynchus yanacensis_Tawny Tit-Spinetail
+Animalia,Chordata,Aves,Passeriformes,FURNARIIDAE,Sylviorthorhynchus,yanacensis,Tawny Tit-Spinetail,Sylviorthorhynchus yanacensis,TRUE,Sylviorthorhynchus yanacensis_Tawny Tit-Spinetail
 Animalia,Chordata,Aves,Passeriformes,Paridae,Sylviparus,modestus,Yellow-browed Tit,Sylviparus modestus,TRUE,Sylviparus modestus_Yellow-browed Tit
 Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Syma,torotoro,Yellow-billed Kingfisher,Syma torotoro,TRUE,Syma torotoro_Yellow-billed Kingfisher
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Symposiachrus,trivirgatus,Spectacled Monarch,Symposiachrus trivirgatus,TRUE,Symposiachrus trivirgatus_Spectacled Monarch
@@ -5919,7 +5919,7 @@ Animalia,Chordata,Aves,Coraciiformes,Alcedinidae,Tanysiptera,sylvia,Buff-breaste
 Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Tapera,naevia,Striped Cuckoo,Tapera naevia,TRUE,Tapera naevia_Striped Cuckoo
 Animalia,Chordata,Aves,Passeriformes,Thamnophilidae,Taraba,major,Great Antshrike,Taraba major,TRUE,Taraba major_Great Antshrike
 Animalia,Chordata,Aves,Passeriformes,Furnariidae,Tarphonomus,certhioides,Chaco Earthcreeper,Tarphonomus certhioides,TRUE,Tarphonomus certhioides_Chaco Earthcreeper
-ANIMALIA,CHORDATA,Aves,Passeriformes,Furnariidae,Tarphonomus,harterti,Bolivian Earthcreeper,Tarphonomus harterti,TRUE,Tarphonomus harterti_Bolivian Earthcreeper
+Animalia,Chordata,Aves,Passeriformes,Furnariidae,Tarphonomus,harterti,Bolivian Earthcreeper,Tarphonomus harterti,TRUE,Tarphonomus harterti_Bolivian Earthcreeper
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Tarsiger,chrysaeus,Golden Bush-Robin,Tarsiger chrysaeus,TRUE,Tarsiger chrysaeus_Golden Bush-Robin
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Tarsiger,cyanurus,Red-flanked Bluetail,Tarsiger cyanurus,TRUE,Tarsiger cyanurus_Red-flanked Bluetail
 Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Tarsiger,indicus,White-browed Bush-Robin,Tarsiger indicus,TRUE,Tarsiger indicus_White-browed Bush-Robin
@@ -5959,7 +5959,7 @@ Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,affinis,Blyth's Par
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,atrocaudata,Japanese Paradise-Flycatcher,Terpsiphone atrocaudata,TRUE,Terpsiphone atrocaudata_Japanese Paradise-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,bourbonnensis,Mascarene Paradise-Flycatcher,Terpsiphone bourbonnensis,TRUE,Terpsiphone bourbonnensis_Mascarene Paradise-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,cinnamomea,Rufous Paradise-Flycatcher,Terpsiphone cinnamomea,TRUE,Terpsiphone cinnamomea_Rufous Paradise-Flycatcher
-Animalia,CHORDATA,Aves,Passeriformes,Monarchidae,Terpsiphone,incei,Amur Paradise-Flycatcher,Terpsiphone incei,TRUE,Terpsiphone incei_Amur Paradise-Flycatcher
+Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,incei,Amur Paradise-Flycatcher,Terpsiphone incei,TRUE,Terpsiphone incei_Amur Paradise-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,mutata,Malagasy Paradise-Flycatcher,Terpsiphone mutata,TRUE,Terpsiphone mutata_Malagasy Paradise-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,paradisi,Indian Paradise-Flycatcher,Terpsiphone paradisi,TRUE,Terpsiphone paradisi_Indian Paradise-Flycatcher
 Animalia,Chordata,Aves,Passeriformes,Monarchidae,Terpsiphone,rufiventer,Black-headed Paradise-Flycatcher,Terpsiphone rufiventer,TRUE,Terpsiphone rufiventer_Black-headed Paradise-Flycatcher
@@ -6209,9 +6209,9 @@ Animalia,Chordata,Aves,Trogoniformes,Trogonidae,Trogon,viridis,Green-backed Trog
 Animalia,Chordata,Aves,Galliformes,Phasianidae,Tropicoperdix,chloropus,Scaly-breasted Partridge,Tropicoperdix chloropus,TRUE,Tropicoperdix chloropus_Scaly-breasted Partridge
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tumbezia,salvini,Tumbes Tyrant,Tumbezia salvini,TRUE,Tumbezia salvini_Tumbes Tyrant
 Animalia,Chordata,Aves,Passeriformes,Vireonidae,Tunchiornis,ochraceiceps,Tawny-crowned Greenlet,Tunchiornis ochraceiceps,TRUE,Tunchiornis ochraceiceps_Tawny-crowned Greenlet
-ANIMALIA,CHORDATA,Aves,Passeriformes,Pellorneidae,Turdinus,atrigularis,Black-throated Wren-Babbler,Turdinus atrigularis,TRUE,Turdinus atrigularis_Black-throated Wren-Babbler
-Animalia,CHORDATA,Aves,Passeriformes,Pellorneidae,Turdinus,macrodactylus,Large Wren-Babbler,Turdinus macrodactylus,TRUE,Turdinus macrodactylus_Large Wren-Babbler
-Animalia,CHORDATA,Aves,PASSERIFORMES,Pellorneidae,Turdinus,marmoratus,Marbled Wren-Babbler,Turdinus marmoratus,TRUE,Turdinus marmoratus_Marbled Wren-Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Turdinus,atrigularis,Black-throated Wren-Babbler,Turdinus atrigularis,TRUE,Turdinus atrigularis_Black-throated Wren-Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Turdinus,macrodactylus,Large Wren-Babbler,Turdinus macrodactylus,TRUE,Turdinus macrodactylus_Large Wren-Babbler
+Animalia,Chordata,Aves,Passeriformes,Pellorneidae,Turdinus,marmoratus,Marbled Wren-Babbler,Turdinus marmoratus,TRUE,Turdinus marmoratus_Marbled Wren-Babbler
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Turdoides,hartlaubii,Hartlaub's Babbler,Turdoides hartlaubii,TRUE,Turdoides hartlaubii_Hartlaub's Babbler
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Turdoides,jardineii,Arrow-marked Babbler,Turdoides jardineii,TRUE,Turdoides jardineii_Arrow-marked Babbler
 Animalia,Chordata,Aves,Passeriformes,Leiothrichidae,Turdoides,leucopygia,White-rumped Babbler,Turdoides leucopygia,TRUE,Turdoides leucopygia_White-rumped Babbler
@@ -6455,11 +6455,11 @@ Animalia,Chordata,Aves,Piciformes,Picidae,Yungipicus,canicapillus,Gray-capped Py
 Animalia,Chordata,Aves,Piciformes,Picidae,Yungipicus,kizuki,Japanese Pygmy Woodpecker,Yungipicus kizuki,TRUE,Yungipicus kizuki_Japanese Pygmy Woodpecker
 Animalia,Chordata,Aves,Piciformes,Picidae,Yungipicus,moluccensis,Sunda Pygmy Woodpecker,Yungipicus moluccensis,TRUE,Yungipicus moluccensis_Sunda Pygmy Woodpecker
 Animalia,Chordata,Aves,Piciformes,Picidae,Yungipicus,nanus,Brown-capped Pygmy Woodpecker,Yungipicus nanus,TRUE,Yungipicus nanus_Brown-capped Pygmy Woodpecker
-Animalia,CHORDATA,Aves,Gruiformes,Rallidae,Zapornia,bicolor,Black-tailed Crake,Zapornia bicolor,TRUE,Zapornia bicolor_Black-tailed Crake
+Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,bicolor,Black-tailed Crake,Zapornia bicolor,TRUE,Zapornia bicolor_Black-tailed Crake
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,flavirostra,Black Crake,Zapornia flavirostra,TRUE,Zapornia flavirostra_Black Crake
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,fusca,Ruddy-breasted Crake,Zapornia fusca,TRUE,Zapornia fusca_Ruddy-breasted Crake
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,parva,Little Crake,Zapornia parva,TRUE,Zapornia parva_Little Crake
-Animalia,CHORDATA,Aves,Gruiformes,Rallidae,Zapornia,paykullii,Band-bellied Crake,Zapornia paykullii,TRUE,Zapornia paykullii_Band-bellied Crake
+Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,paykullii,Band-bellied Crake,Zapornia paykullii,TRUE,Zapornia paykullii_Band-bellied Crake
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,pusilla,Baillon's Crake,Zapornia pusilla,TRUE,Zapornia pusilla_Baillon's Crake
 Animalia,Chordata,Aves,Gruiformes,Rallidae,Zapornia,tabuensis,Spotless Crake,Zapornia tabuensis,TRUE,Zapornia tabuensis_Spotless Crake
 Animalia,Chordata,Aves,Passeriformes,Corvidae,Zavattariornis,stresemanni,Stresemann's Bush-Crow,Zavattariornis stresemanni,TRUE,Zavattariornis stresemanni_Stresemann's Bush-Crow
@@ -6482,7 +6482,7 @@ Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,bolivianus,Bolivian Ty
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,chrysops,Golden-faced Tyrannulet,Zimmerius chrysops,TRUE,Zimmerius chrysops_Golden-faced Tyrannulet
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,cinereicapilla,Red-billed Tyrannulet,Zimmerius cinereicapilla,TRUE,Zimmerius cinereicapilla_Red-billed Tyrannulet
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,gracilipes,Slender-footed Tyrannulet,Zimmerius gracilipes,TRUE,Zimmerius gracilipes_Slender-footed Tyrannulet
-Animalia,CHORDATA,Aves,Passeriformes,Tyrannidae,Zimmerius,parvus,Mistletoe Tyrannulet,Zimmerius parvus,TRUE,Zimmerius parvus_Mistletoe Tyrannulet
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,parvus,Mistletoe Tyrannulet,Zimmerius parvus,TRUE,Zimmerius parvus_Mistletoe Tyrannulet
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,vilissimus,Guatemalan Tyrannulet,Zimmerius vilissimus,TRUE,Zimmerius vilissimus_Guatemalan Tyrannulet
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,villarejoi,Mishana Tyrannulet,Zimmerius villarejoi,TRUE,Zimmerius villarejoi_Mishana Tyrannulet
 Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Zimmerius,viridiflavus,Peruvian Tyrannulet,Zimmerius viridiflavus,TRUE,Zimmerius viridiflavus_Peruvian Tyrannulet
