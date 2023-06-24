@@ -8,6 +8,8 @@ This repository contains a small R script which takes the text file above as an 
 
 To use it, get a copy of the total species list from the link above and save it in the project folder as 'birdnet_labels.txt'. Then run metadata_processing.R, which will output:
 
-all_species_metadata.csv - metadata for all labels (birds, non-bird wildlife, and non-wildlife)
-non_birds_metadata.csv - metadata for non-bird sounds (other wildlife and non-wildlife) 
-non_birds_species_list.txt - a new species label file 'non_birds_species_list.txt' which includes only the non-bird sound labels, using the format required by BirdNET-Analyzer for specifying species lists. 
+- all_species_metadata.csv - metadata for all labels (birds, non-bird wildlife, and non-wildlife)
+
+- non_birds_metadata.csv - metadata for non-bird sounds (other wildlife and non-wildlife) 
+
+- non_birds_species_list.txt - a new species label file 'non_birds_species_list.txt' which includes only the non-bird sound labels, using the format required by BirdNET-Analyzer for specifying species lists. 
